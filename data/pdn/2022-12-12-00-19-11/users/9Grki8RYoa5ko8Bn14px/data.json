@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "name": {
+      "type": "string",
+      "value": "Samuel Stiven"
+    },
+    "document": {
+      "type": "string",
+      "value": "1055756633"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Prada Lopez"
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

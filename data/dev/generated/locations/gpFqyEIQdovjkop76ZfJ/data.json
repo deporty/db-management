@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Bosque Popular El Prado"
+    },
+    "playgrounds": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

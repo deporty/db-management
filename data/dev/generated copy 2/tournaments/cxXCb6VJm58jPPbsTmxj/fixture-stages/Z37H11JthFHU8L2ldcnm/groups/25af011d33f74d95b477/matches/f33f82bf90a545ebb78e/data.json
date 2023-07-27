@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "value": {
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/cxXCb6VJm58jPPbsTmxj/fixture-stages/Z37H11JthFHU8L2ldcnm/groups/25af011d33f74d95b477/matches/f33f82bf90a545ebb78e/judgeSignature.jpg"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-03T16:00:00.000Z"
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/7G1zmfitEwgU0jpuuwtw"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/cxXCb6VJm58jPPbsTmxj/fixture-stages/Z37H11JthFHU8L2ldcnm/groups/25af011d33f74d95b477/matches/f33f82bf90a545ebb78e/captainASignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 0
+        },
+        "team-a": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    },
+    "observations": {
+      "type": "string",
+      "value": "El  equipo asofutbol no se presentó al partido"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/iAwHUoxblfazUZjPpeCd"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    }
+  }
+}

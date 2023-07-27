@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Enea"
+    },
+    "playgrounds": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        }
+      ]
+    },
+    "coordinate": {
+      "type": "object",
+      "value": {
+        "latitude": {
+          "type": "number",
+          "value": 5.030534087437448
+        },
+        "longitude": {
+          "type": "number",
+          "value": -75.46390433068554
+        }
+      }
+    }
+  }
+}

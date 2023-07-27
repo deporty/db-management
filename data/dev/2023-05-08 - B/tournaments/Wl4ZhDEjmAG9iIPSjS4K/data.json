@@ -1,0 +1,116 @@
+{
+  "type": "object",
+  "value": {
+    "reward": {
+      "type": "Array",
+      "value": []
+    },
+    "name": {
+      "value": "Copa Ciudad Manizales Bronce",
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "value": "Wl4ZhDEjmAG9iIPSjS4K"
+    },
+    "starts-date": {
+      "type": "date",
+      "value": "2022-12-06T05:00:00.000Z"
+    },
+    "flayer": {
+      "type": "string",
+      "value": "tournaments/Wl4ZhDEjmAG9iIPSjS4K/preview.jpg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "inscription": {
+      "type": "number",
+      "value": 0
+    },
+    "description": {
+      "type": "string",
+      "value": ""
+    },
+    "financial-statements": {
+      "type": "object",
+      "value": {
+        "amount": {
+          "type": "number",
+          "value": 160000
+        },
+        "status": {
+          "type": "string",
+          "value": "pending"
+        },
+        "num-of-invoices": {
+          "type": "number",
+          "value": 1
+        }
+      }
+    },
+    "locations": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "Fl8q6kAyHiAxPEfCnp0c"
+        },
+        {
+          "type": "string",
+          "value": "IE4qNsCVvLcDmAb6dRc3"
+        },
+        {
+          "type": "string",
+          "value": "P8sds0iDJaem6eVMJocY"
+        },
+        {
+          "type": "string",
+          "value": "XmPL0Gaia6p4a6mxOJ1X"
+        },
+        {
+          "type": "string",
+          "value": "bhq0R8ThmxrN5jf5hhcV"
+        },
+        {
+          "type": "string",
+          "value": "gpFqyEIQdovjkop76ZfJ"
+        },
+        {
+          "type": "string",
+          "value": "kBystvg9Ni60jF799QgK"
+        }
+      ]
+    },
+    "status": {
+      "value": "finished",
+      "type": "string"
+    },
+    "organization-id": {
+      "type": "string",
+      "value": "Wsib20rGNlTR2UsU42eY"
+    },
+    "version": {
+      "value": "2",
+      "type": "string"
+    },
+    "year": {
+      "value": 2022,
+      "type": "number"
+    },
+    "tags": {
+      "value": [
+        {
+          "type": "string",
+          "value": "Bronce"
+        }
+      ],
+      "type": "Array"
+    },
+    "tournament-layout-id": {
+      "value": "2155b473c8db7486f995d",
+      "type": "string"
+    }
+  }
+}

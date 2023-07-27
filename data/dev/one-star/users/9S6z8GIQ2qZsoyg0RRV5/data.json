@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "last-name": {
+      "type": "string",
+      "value": "URIBE CASTAÑO"
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "SIMON"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": "1089100475"
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

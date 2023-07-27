@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "document": {
+      "type": "string",
+      "value": "1017935232"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Madrid Loaiza"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "name": {
+      "type": "string",
+      "value": "Matias"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

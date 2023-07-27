@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1011222765"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Rivera Moreno"
+    },
+    "name": {
+      "type": "string",
+      "value": "Juan Martín"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

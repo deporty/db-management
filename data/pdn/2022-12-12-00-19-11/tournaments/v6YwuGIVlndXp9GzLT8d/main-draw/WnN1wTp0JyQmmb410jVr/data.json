@@ -1,0 +1,1658 @@
+{
+  "type": "object",
+  "value": {
+    "key": {
+      "type": "number",
+      "value": 2
+    },
+    "level": {
+      "type": "number",
+      "value": 2
+    },
+    "match": {
+      "type": "object",
+      "value": {
+        "captain-b-signature": {
+          "type": "string",
+          "value": "tournaments/v6YwuGIVlndXp9GzLT8d/main-draw/WnN1wTp0JyQmmb410jVr/captainBSignature.jpg"
+        },
+        "location": {
+          "type": "reference",
+          "value": "locations/Fl8q6kAyHiAxPEfCnp0c"
+        },
+        "captain-a-signature": {
+          "type": "string",
+          "value": "tournaments/v6YwuGIVlndXp9GzLT8d/main-draw/WnN1wTp0JyQmmb410jVr/captainASignature.jpg"
+        },
+        "stadistics": {
+          "type": "object",
+          "value": {
+            "extra-goals-team-a": {
+              "type": "object",
+              "value": {
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                },
+                "description": {
+                  "type": "string",
+                  "value": ""
+                }
+              }
+            },
+            "extra-goals-team-b": {
+              "type": "object",
+              "value": {
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                },
+                "description": {
+                  "type": "string",
+                  "value": ""
+                }
+              }
+            },
+            "team-b": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "object",
+                  "value": {
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/ZWisumwduHiwxRLdFxMX"
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Cusp1DptUH15nKt0ny7U"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/iHirIstRHIWEK2mpWyf3"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/ovKiJcB5PcVkRcnZy1Iq"
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/RNF0FMi1NMxOTFFfUVKa"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Sm8cIitq8WqRWyaALbSl"
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/xdXlDM2u1njLqzRiqeGD"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/LfyunaccqvJhvqugj8mc"
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/CWQSKetDHZvQHWxHguCT"
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/k0R1jq9MJG0zpyfS2szD"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/NM8kIL7H91NQe6tKE65R"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/QCX1X2xKRjdlFeNQiPU6"
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/EV8ywVT4wFE8rKJguacT"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/7kszkMhgJyRL9PL5BJT5"
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/A9SmDZVOQQAqWN6UPgiB"
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/i4F39WxfA7RvG9A8S8BV"
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/8bo2D35kqdpXexHfGEZI"
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Yrz1jyjdIQeSWQSfYiG8"
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                }
+              ]
+            },
+            "team-a": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "object",
+                  "value": {
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/F4mqGFTPQrI91YgnWES0"
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/z1DkLHAtBtokZRmubtfc"
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/tBrVKAoxmrlAkcb7u6xf"
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/NJwNf5lFvdnlxNbsPyjw"
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/ncx8B87YrzgYpKyGODNX"
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/zW5DgqgCwv0kyEohYfTw"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Xo8TGddyUCIVW9wCqvEh"
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/IcaFHpHRXT9q8NJT2Uh5"
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/XTofVWqSdDLzRCdlD991"
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/VcXYBWMFWZq78xUrcoHj"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/S5Cnc49Lq1elb4h1Fl0J"
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/PlZXMZNdVJquyEixGRnL"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/GjelqgUslbUGJTCuv6YW"
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/7tYqMMsbHuozmm17XFo1"
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/3TKMXkzYtXmu9BLbhm9H"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/MohDNZDSNI4DxD9W9hyX"
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/vAVZd3lJRe40lsKY07cO"
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/HvcFAPOrKGJTTVpo0Juz"
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/8eMBedxCrZFBUuEd2Eh0"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/fi2ALKahsxYlqLQlAcT6"
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/PG3DsY4i3VWr0wmwmiX0"
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/hkxtrfQfne5B9ME9T3CI"
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/OQydi6QWzILcmwI5RCMF"
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/HBYOqx1vSrtPikBK2D2x"
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "score": {
+          "type": "object",
+          "value": {
+            "team-b": {
+              "type": "number",
+              "value": 1
+            },
+            "team-a": {
+              "type": "number",
+              "value": 1
+            }
+          }
+        },
+        "date": {
+          "type": "date",
+          "value": "2022-12-06T13:00:00.000Z"
+        },
+        "judge-signature": {
+          "type": "string",
+          "value": "tournaments/v6YwuGIVlndXp9GzLT8d/main-draw/WnN1wTp0JyQmmb410jVr/judgeSignature.jpg"
+        },
+        "team-b": {
+          "type": "reference",
+          "value": "teams/QB5unHdmuczefi0Up2Iv"
+        },
+        "observations": {
+          "type": "string",
+          "value": "Se expulsa al entrenador de arqueros de la selección caldas, entrenador Zapata y amolestado con amarilla el profesor Renzo de la selección caldas \n\nPasa la selección caldas definición por penales\n4 para caldas\n2 para quinta oriental "
+        },
+        "playground": {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        },
+        "team-a": {
+          "type": "reference",
+          "value": "teams/jQedYGA3sMI5Aqgd2HOL"
+        },
+        "player-form": {
+          "type": "object",
+          "value": {
+            "team-b": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "reference",
+                  "value": "users/EV8ywVT4wFE8rKJguacT"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/QCX1X2xKRjdlFeNQiPU6"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/Cusp1DptUH15nKt0ny7U"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/Yrz1jyjdIQeSWQSfYiG8"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/NM8kIL7H91NQe6tKE65R"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/8bo2D35kqdpXexHfGEZI"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/i4F39WxfA7RvG9A8S8BV"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/k0R1jq9MJG0zpyfS2szD"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/LfyunaccqvJhvqugj8mc"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/iHirIstRHIWEK2mpWyf3"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/RNF0FMi1NMxOTFFfUVKa"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/xdXlDM2u1njLqzRiqeGD"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/CWQSKetDHZvQHWxHguCT"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/ovKiJcB5PcVkRcnZy1Iq"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/ZWisumwduHiwxRLdFxMX"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/A9SmDZVOQQAqWN6UPgiB"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/7kszkMhgJyRL9PL5BJT5"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/Sm8cIitq8WqRWyaALbSl"
+                }
+              ]
+            },
+            "team-a": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "reference",
+                  "value": "users/GjelqgUslbUGJTCuv6YW"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/7tYqMMsbHuozmm17XFo1"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/3TKMXkzYtXmu9BLbhm9H"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/NJwNf5lFvdnlxNbsPyjw"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/8eMBedxCrZFBUuEd2Eh0"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/PG3DsY4i3VWr0wmwmiX0"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/PlZXMZNdVJquyEixGRnL"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/HvcFAPOrKGJTTVpo0Juz"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/VcXYBWMFWZq78xUrcoHj"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/S5Cnc49Lq1elb4h1Fl0J"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/zW5DgqgCwv0kyEohYfTw"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/ncx8B87YrzgYpKyGODNX"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/HBYOqx1vSrtPikBK2D2x"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/hkxtrfQfne5B9ME9T3CI"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/MohDNZDSNI4DxD9W9hyX"
+                },
+                {
+                  "type": "reference",
+                  "value": "users/tBrVKAoxmrlAkcb7u6xf"
+                }
+              ]
+            }
+          }
+        },
+        "completed": {
+          "type": "boolean",
+          "value": true
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "WnN1wTp0JyQmmb410jVr"
+    }
+  }
+}

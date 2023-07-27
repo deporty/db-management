@@ -1,0 +1,52 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/542eLN3ilWAObsDeTnqB/brand/mini-shield.jpeg"
+    },
+    "name": {
+      "value": "La Cantera",
+      "type": "string"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/goG7paUOqgbGwUB5xQZg"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "542eLN3ilWAObsDeTnqB"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 17"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/542eLN3ilWAObsDeTnqB/brand/shield.jpeg"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "goG7paUOqgbGwUB5xQZg"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

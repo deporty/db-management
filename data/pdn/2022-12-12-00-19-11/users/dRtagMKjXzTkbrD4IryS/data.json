@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1126420919"
+    },
+    "name": {
+      "type": "string",
+      "value": "Bryam Esteban"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Ramos Carvajal"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

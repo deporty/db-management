@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "email": {
+      "type": "string",
+      "value": "coachjimmysfu@gmail.com"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": " 3215878176"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Calle"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Jimmy Danilo"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Jeronimo"
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/hkO0lp8lbzq50s82Wu60"
+        }
+      ]
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1033491325"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Serna Tabares"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

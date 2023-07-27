@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Luis David"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Suárez Barrera"
+    },
+    "document": {
+      "type": "string",
+      "value": "1028863568"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

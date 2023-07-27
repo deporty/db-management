@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "last-name": {
+      "type": "string",
+      "value": "MOSOS RIOS"
+    },
+    "document": {
+      "type": "string",
+      "value": "1023244525"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "EMMANUEL"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

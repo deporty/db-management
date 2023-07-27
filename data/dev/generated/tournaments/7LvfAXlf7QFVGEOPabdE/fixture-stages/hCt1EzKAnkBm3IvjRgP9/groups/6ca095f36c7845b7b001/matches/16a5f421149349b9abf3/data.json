@@ -1,0 +1,34 @@
+{
+  "type": "object",
+  "value": {
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/7LvfAXlf7QFVGEOPabdE/fixture-stages/hCt1EzKAnkBm3IvjRgP9/groups/6ca095f36c7845b7b001/matches/16a5f421149349b9abf3/judgeSignature.jpg"
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/UBpwjGLMa1W1St0PXQjO"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 0
+        },
+        "team-a": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/nDUHi2cWpY0H1CNRAyIA"
+    }
+  }
+}

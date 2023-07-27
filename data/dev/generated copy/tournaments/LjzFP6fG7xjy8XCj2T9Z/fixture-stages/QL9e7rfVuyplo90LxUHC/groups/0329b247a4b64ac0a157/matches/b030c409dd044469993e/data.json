@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "value": {
+    "observations": {
+      "type": "string",
+      "value": "Amarilla al asistente de Dinamic"
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/2wuUATtb3GtvEwwTC77z"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-03T23:00:00.000Z"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/XmPL0Gaia6p4a6mxOJ1X"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/U7yFz64sX10uY8hcDAya"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 3
+        },
+        "team-b": {
+          "type": "number",
+          "value": 0
+        }
+      }
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/0329b247a4b64ac0a157/matches/b030c409dd044469993e/captainASignature.jpg"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/0329b247a4b64ac0a157/matches/b030c409dd044469993e/captainBSignature.jpg"
+    }
+  }
+}

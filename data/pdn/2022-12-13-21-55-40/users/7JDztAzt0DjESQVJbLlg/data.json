@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Brayhan"
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Sanchez Toro"
+    },
+    "document": {
+      "type": "string",
+      "value": "1055359851"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

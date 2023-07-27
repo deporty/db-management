@@ -1,0 +1,243 @@
+{
+  "type": "object",
+  "value": {
+    "order": {
+      "type": "number",
+      "value": 0
+    },
+    "label": {
+      "type": "string",
+      "value": "A"
+    },
+    "teams": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "sclxlnVg3nDuD1TmUZeS"
+        },
+        {
+          "type": "string",
+          "value": "ERbpoEKjh4J43990nacr"
+        },
+        {
+          "type": "string",
+          "value": "jCoK8iciIenGMpraALMk"
+        }
+      ]
+    },
+    "fixture-stage-id": {
+      "type": "string",
+      "value": "jzUgG0sPaxpcLIMxjWYD"
+    },
+    "positions-table": {
+      "type": "object",
+      "value": {
+        "table": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "object",
+              "value": {
+                "team-id": {
+                  "type": "string",
+                  "value": "ERbpoEKjh4J43990nacr"
+                },
+                "stadistics": {
+                  "type": "object",
+                  "value": {
+                    "goals-against": {
+                      "type": "number",
+                      "value": 3
+                    },
+                    "goals-against-per-match": {
+                      "type": "number",
+                      "value": 1.5
+                    },
+                    "goals-difference": {
+                      "type": "number",
+                      "value": 5
+                    },
+                    "goals-in-favor": {
+                      "type": "number",
+                      "value": 8
+                    },
+                    "fair-play": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "lost-matches": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "played-matches": {
+                      "type": "number",
+                      "value": 2
+                    },
+                    "points": {
+                      "type": "number",
+                      "value": 6
+                    },
+                    "tied-matches": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "won-matches": {
+                      "type": "number",
+                      "value": 2
+                    }
+                  }
+                },
+                "was-by-random": {
+                  "type": "boolean",
+                  "value": false
+                }
+              }
+            },
+            {
+              "type": "object",
+              "value": {
+                "team-id": {
+                  "type": "string",
+                  "value": "jCoK8iciIenGMpraALMk"
+                },
+                "stadistics": {
+                  "type": "object",
+                  "value": {
+                    "goals-against": {
+                      "type": "number",
+                      "value": 4
+                    },
+                    "goals-against-per-match": {
+                      "type": "number",
+                      "value": 2
+                    },
+                    "goals-difference": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "goals-in-favor": {
+                      "type": "number",
+                      "value": 4
+                    },
+                    "fair-play": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "lost-matches": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "played-matches": {
+                      "type": "number",
+                      "value": 2
+                    },
+                    "points": {
+                      "type": "number",
+                      "value": 3
+                    },
+                    "tied-matches": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "won-matches": {
+                      "type": "number",
+                      "value": 1
+                    }
+                  }
+                },
+                "was-by-random": {
+                  "type": "boolean",
+                  "value": false
+                }
+              }
+            },
+            {
+              "type": "object",
+              "value": {
+                "team-id": {
+                  "type": "string",
+                  "value": "sclxlnVg3nDuD1TmUZeS"
+                },
+                "stadistics": {
+                  "type": "object",
+                  "value": {
+                    "goals-against": {
+                      "type": "number",
+                      "value": 6
+                    },
+                    "goals-against-per-match": {
+                      "type": "number",
+                      "value": 3
+                    },
+                    "goals-difference": {
+                      "type": "number",
+                      "value": -4
+                    },
+                    "goals-in-favor": {
+                      "type": "number",
+                      "value": 2
+                    },
+                    "fair-play": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "lost-matches": {
+                      "type": "number",
+                      "value": 2
+                    },
+                    "played-matches": {
+                      "type": "number",
+                      "value": 2
+                    },
+                    "points": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "tied-matches": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "won-matches": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  }
+                },
+                "was-by-random": {
+                  "type": "boolean",
+                  "value": false
+                }
+              }
+            }
+          ]
+        },
+        "analized-matches": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "string",
+              "value": "2e07d68649b64028b99a"
+            },
+            {
+              "type": "string",
+              "value": "abf9750d8b364def8e82"
+            },
+            {
+              "type": "string",
+              "value": "F4ggT319YqkoPDsF6fmH"
+            },
+            {
+              "type": "string",
+              "value": "EdLcaDMDguCKRD0EEFie"
+            },
+            {
+              "type": "string",
+              "value": "xoad5450sifbg9SzPoPw"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/1VeHanuwiZwNTO7DBMEy/brand/shield.jpeg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/goG7paUOqgbGwUB5xQZg"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "1VeHanuwiZwNTO7DBMEy"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/1VeHanuwiZwNTO7DBMEy/brand/mini-shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "LA CANTERA (Sub 15)"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    }
+  }
+}

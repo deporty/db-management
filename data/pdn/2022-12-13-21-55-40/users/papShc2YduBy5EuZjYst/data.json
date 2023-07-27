@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "name": {
+      "type": "string",
+      "value": "Fabio Alberto"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Garcia Noria"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1126078071"
+    }
+  }
+}

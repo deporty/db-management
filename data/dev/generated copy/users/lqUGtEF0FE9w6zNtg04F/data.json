@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "document": {
+      "type": "string",
+      "value": "1056125688"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Betancur Jimenez"
+    },
+    "name": {
+      "type": "string",
+      "value": "Juan David"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "value": {
+    "completed": {
+      "type": "boolean",
+      "value": false
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 0
+        },
+        "team-b": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    },
+    "group-id": {
+      "type": "string",
+      "value": "33060c80aea54926a363"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 5
+        },
+        "team-b": {
+          "type": "number",
+          "value": 2
+        }
+      }
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-03T20:30:00.000Z"
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/1e971ccba14d4e289888/captainBSignature.jpg"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/1e971ccba14d4e289888/captainASignature.jpg"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/542eLN3ilWAObsDeTnqB"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/1e971ccba14d4e289888/judgeSignature.jpg"
+    },
+    "observations": {
+      "type": "string",
+      "value": "El jugador #8  Daniel Hernandez del equipo la enea utiliza lenguaje ofensivo e insultante hacia la arbitra diciendo \"aprenda a ver\"\nArbitra: isabel vasquez"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/NDegOwVIWWBYSAQb3fHw"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    }
+  }
+}

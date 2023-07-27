@@ -1,0 +1,51 @@
+{
+  "type": "object",
+  "value": {
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 1
+        },
+        "team-b": {
+          "type": "number",
+          "value": 2
+        }
+      }
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/7KqZutvODrgNeypckDrO/fixture-stages/qriXXV6Yh7qJLVtFtElk/groups/d7c56b5ced674848ad41/matches/b0b96ea2f8454b65877c/captainASignature.jpg"
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/7KqZutvODrgNeypckDrO/fixture-stages/qriXXV6Yh7qJLVtFtElk/groups/d7c56b5ced674848ad41/matches/b0b96ea2f8454b65877c/judgeSignature.jpg"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-06T15:00:00.000Z"
+    },
+    "group-id": {
+      "type": "string",
+      "value": "d7c56b5ced674848ad41"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "P8sds0iDJaem6eVMJocY"
+    }
+  }
+}

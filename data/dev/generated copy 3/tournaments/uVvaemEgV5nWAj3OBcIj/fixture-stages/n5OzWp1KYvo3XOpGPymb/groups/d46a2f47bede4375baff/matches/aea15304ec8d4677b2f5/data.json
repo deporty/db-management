@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/d46a2f47bede4375baff/matches/aea15304ec8d4677b2f5/captainBSignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 5
+        },
+        "team-a": {
+          "type": "number",
+          "value": 5
+        }
+      }
+    },
+    "observations": {
+      "type": "string",
+      "value": "Expulsado Juan Carlos mosquera peñaloza por malograr una oportunidad manifiesta de gol mediante una mano\n\nExpulsado Jerónimo Acevedo por escupir a un adversario en el rostro"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/bhq0R8ThmxrN5jf5hhcV"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-05T21:00:00.000Z"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/AcHFPT44JSB9TnLtzAfu"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/d46a2f47bede4375baff/matches/aea15304ec8d4677b2f5/captainASignature.jpg"
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/mfyVLx7DtCZ1peGE2V39"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/d46a2f47bede4375baff/matches/aea15304ec8d4677b2f5/judgeSignature.jpg"
+    }
+  }
+}

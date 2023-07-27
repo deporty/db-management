@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Matias"
+    },
+    "document": {
+      "type": "string",
+      "value": "1056127277"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Arias Giraldo"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

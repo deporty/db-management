@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Mauricio"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "phone": {
+      "type": "string",
+      "value": "3104896747"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Loaiza"
+    },
+    "email": {
+      "type": "string",
+      "value": "mauricioloaiza22@gmail.com"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

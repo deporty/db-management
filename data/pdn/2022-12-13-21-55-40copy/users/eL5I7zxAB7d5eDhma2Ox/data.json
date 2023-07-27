@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": "1195213124"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "medina sanchez "
+    },
+    "name": {
+      "type": "string",
+      "value": "ismael alejandro"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

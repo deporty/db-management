@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "category": {
+      "type": "string",
+      "value": "Sub 17"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "value": "Quinta Oriental",
+      "type": "string"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/BlcjIYlOpYqICDut8YcC/brand/shield.jpeg"
+    },
+    "id": {
+      "type": "string",
+      "value": "BlcjIYlOpYqICDut8YcC"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/BlcjIYlOpYqICDut8YcC/brand/mini-shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/pFMbwP022oyp53jBtuTl"
+        }
+      }
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "pFMbwP022oyp53jBtuTl"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

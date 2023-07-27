@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": "3122244943"
+    },
+    "email": {
+      "type": "string",
+      "value": "rauandremartinez@gmail.com"
+    },
+    "first-name": {
+      "value": "Raul",
+      "type": "string"
+    },
+    "second-name": {
+      "value": "",
+      "type": "string"
+    },
+    "first-last-name": {
+      "value": "Andrés",
+      "type": "string"
+    },
+    "second-last-name": {
+      "value": "Martínez",
+      "type": "string"
+    }
+  }
+}

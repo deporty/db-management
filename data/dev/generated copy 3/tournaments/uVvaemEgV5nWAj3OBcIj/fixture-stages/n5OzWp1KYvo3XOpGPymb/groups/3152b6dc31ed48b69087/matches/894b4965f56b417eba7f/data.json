@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "observations": {
+      "type": "string",
+      "value": "Amonestación Cristian Pinilla técnico fortaleza "
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/3152b6dc31ed48b69087/matches/894b4965f56b417eba7f/captainBSignature.jpg"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/3152b6dc31ed48b69087/matches/894b4965f56b417eba7f/captainASignature.jpg"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/XmPL0Gaia6p4a6mxOJ1X"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 1
+        },
+        "team-a": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/b0Kosi2iCsdX6dmabxS6"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-03T17:00:00.000Z"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/o4s1gsGGwq7nUZfuWfvS"
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/3152b6dc31ed48b69087/matches/894b4965f56b417eba7f/judgeSignature.jpg"
+    }
+  }
+}

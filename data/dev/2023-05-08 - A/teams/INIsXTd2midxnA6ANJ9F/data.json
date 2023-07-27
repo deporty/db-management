@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "value": "Semenor",
+      "type": "string"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/vDEB4ZKzmx3qtFjaf5Pv"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/INIsXTd2midxnA6ANJ9F/brand/shield.png"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/INIsXTd2midxnA6ANJ9F/brand/mini-shield.png"
+    },
+    "id": {
+      "type": "string",
+      "value": "INIsXTd2midxnA6ANJ9F"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "vDEB4ZKzmx3qtFjaf5Pv"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

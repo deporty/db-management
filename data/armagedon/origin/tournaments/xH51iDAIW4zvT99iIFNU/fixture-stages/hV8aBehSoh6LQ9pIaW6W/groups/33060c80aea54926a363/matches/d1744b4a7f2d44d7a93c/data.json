@@ -1,0 +1,47 @@
+{
+  "type": "object",
+  "value": {
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 0
+        },
+        "team-a": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "group-id": {
+      "type": "string",
+      "value": "33060c80aea54926a363"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "Fl8q6kAyHiAxPEfCnp0c"
+    },
+    "team-a-id": {
+      "type": "string",
+      "value": "bxxPG1F3TrTafrUoVM6O"
+    },
+    "team-b-id": {
+      "type": "string",
+      "value": "b0Kosi2iCsdX6dmabxS6"
+    }
+  }
+}

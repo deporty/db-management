@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "last-name": {
+      "type": "string",
+      "value": "Suárez Díaz"
+    },
+    "name": {
+      "type": "string",
+      "value": "Juan Río"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1014884942"
+    }
+  }
+}

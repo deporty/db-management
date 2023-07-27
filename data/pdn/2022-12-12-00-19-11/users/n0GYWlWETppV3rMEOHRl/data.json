@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "last-name": {
+      "type": "string",
+      "value": "Orozco trejos"
+    },
+    "document": {
+      "type": "string",
+      "value": "1126427559"
+    },
+    "name": {
+      "type": "string",
+      "value": "Juan Camilo"
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

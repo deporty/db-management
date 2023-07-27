@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "last-name": {
+      "type": "string",
+      "value": "Díaz Delgado"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": "1023084689"
+    },
+    "name": {
+      "type": "string",
+      "value": "Daniel Felipe"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

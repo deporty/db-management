@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "team-b": {
+      "type": "reference",
+      "value": "teams/QB5unHdmuczefi0Up2Iv"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/1fd33e9ea4224357a864/matches/34dd43687fc8445e8f72/captainBSignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 1
+        },
+        "team-b": {
+          "type": "number",
+          "value": 4
+        }
+      }
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/1fd33e9ea4224357a864/matches/34dd43687fc8445e8f72/captainASignature.jpg"
+    },
+    "observations": {
+      "type": "string",
+      "value": "Tarjeta roja entrenador holocausto norte\nPor lenguaje ofensivo insultante y humillante \" vendido malo hijueputa malo malparido\"\nAsistente técnico amonestado \n"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/1fd33e9ea4224357a864/matches/34dd43687fc8445e8f72/judgeSignature.jpg"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-05T19:00:00.000Z"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/kBystvg9Ni60jF799QgK"
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/0cYjNe9AIFbdn7S98I97"
+    }
+  }
+}

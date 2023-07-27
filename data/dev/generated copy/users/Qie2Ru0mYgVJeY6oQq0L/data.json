@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1093741883"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Guerrero Villamizar"
+    },
+    "name": {
+      "type": "string",
+      "value": "Juan Sebastian"
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

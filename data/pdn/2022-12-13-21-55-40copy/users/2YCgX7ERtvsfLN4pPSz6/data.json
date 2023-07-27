@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1055757283"
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "last-name": {
+      "type": "string",
+      "value": "González cárdenas"
+    },
+    "name": {
+      "type": "string",
+      "value": "Gerónimo"
+    }
+  }
+}

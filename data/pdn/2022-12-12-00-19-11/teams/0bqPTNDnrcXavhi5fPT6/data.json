@@ -1,0 +1,257 @@
+{
+  "type": "object",
+  "value": {
+    "members": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/oRpibqwCy3B2Qt4tw1cF"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 12
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/PZU59cfREHfQJ0Uj8AZ5"
+            },
+            "number": {
+              "type": "number",
+              "value": 5
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 1
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/fkdPne0Xfw4IpqLtWZQ9"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/IlLnkvTKtVTludwcYIXU"
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 2
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/tum8PKma0ilGHeubuUi0"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 16
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "number": {
+              "type": "number",
+              "value": 13
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/M24zzVdrPH2N9BRBl9Si"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "number": {
+              "type": "number",
+              "value": 19
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/i6xRKeQHE3KAMHp7hiDV"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 16
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/e1BlXuS6RYhmi00zD7dL"
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/zh4SoFEcuk5Lpcu1YkZ4"
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "number": {
+              "type": "number",
+              "value": 23
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 8
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/HM2X0pKZnVKnzeSjn5wK"
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            }
+          }
+        }
+      ]
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/0bqPTNDnrcXavhi5fPT6/brand/mini-shield.png"
+    },
+    "name": {
+      "type": "string",
+      "value": "ONCE CALDAS B (Sub 9)"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 9"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/0bqPTNDnrcXavhi5fPT6/brand/shield.png"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/EhZpScovwIvgp9M6sXtR"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "0bqPTNDnrcXavhi5fPT6"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

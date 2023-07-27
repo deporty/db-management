@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Jairo Quintero Torneos Marchagas"
+    },
+    "NTP": {
+      "type": "number",
+      "value": 0
+    },
+    "FMTA": {
+      "type": "number",
+      "value": 0
+    },
+    "members": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "users/g2yfRQIHG2BldSMomALp"
+        }
+      ]
+    }
+  }
+}

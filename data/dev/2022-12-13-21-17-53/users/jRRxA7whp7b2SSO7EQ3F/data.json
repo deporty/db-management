@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "David "
+    },
+    "document": {
+      "type": "string",
+      "value": "1015188944"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Uribe  Castaño"
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/hkO0lp8lbzq50s82Wu60"
+        }
+      ]
+    }
+  }
+}

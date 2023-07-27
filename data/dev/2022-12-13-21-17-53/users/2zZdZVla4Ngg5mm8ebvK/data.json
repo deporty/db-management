@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Fuentes Ruíz"
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Juan José"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/hkO0lp8lbzq50s82Wu60"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": "1010843090"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

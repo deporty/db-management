@@ -1,0 +1,278 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "LNVHa3tTFiMeKAkg1oiD"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/LNVHa3tTFiMeKAkg1oiD/brand/shield.jpeg"
+    },
+    "name": {
+      "type": "string",
+      "value": "CD ROZO A (Sub 9)"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/LNVHa3tTFiMeKAkg1oiD/brand/mini-shield.jpeg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/DjxSbiVQ59RhM8K5YGz9"
+        }
+      }
+    },
+    "members": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 2
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/9rnqsFZ35LRgwORVhbUq"
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "number": {
+              "type": "number",
+              "value": 3
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/25hc3xIzSVWnIe047AA0"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/N0GVY2npkBngOIZE7STP"
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 4
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 5
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/CMfGxOQsQN31v6hx1zSn"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/cxe2Qq6mBvP2DFZiC5za"
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 6
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/8DtgQ1HAAfaA0lPMP3W6"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 7
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "number": {
+              "type": "number",
+              "value": 8
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/gTnD5XOSh9qkYHey9sqA"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/zoIkPoTUOkIjKyHWoLrY"
+            },
+            "number": {
+              "type": "number",
+              "value": 9
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/NDuPigrO9WPNL9qpD2S9"
+            },
+            "number": {
+              "type": "number",
+              "value": 10
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/wXG1dtnwCRv0ubYqZ03K"
+            },
+            "number": {
+              "type": "number",
+              "value": 11
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/WtbIBzRidh5pu6ckoivi"
+            },
+            "init-date": {
+              "type": "date",
+              "value": "2022-12-01T05:00:00.000Z"
+            },
+            "number": {
+              "type": "number",
+              "value": 12
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        }
+      ]
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 9"
+    }
+  }
+}

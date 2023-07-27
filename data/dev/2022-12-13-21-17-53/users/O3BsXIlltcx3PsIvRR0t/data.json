@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1023632825"
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/hkO0lp8lbzq50s82Wu60"
+        }
+      ]
+    },
+    "name": {
+      "type": "string",
+      "value": "Juan Jose "
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Holguín Murillo"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

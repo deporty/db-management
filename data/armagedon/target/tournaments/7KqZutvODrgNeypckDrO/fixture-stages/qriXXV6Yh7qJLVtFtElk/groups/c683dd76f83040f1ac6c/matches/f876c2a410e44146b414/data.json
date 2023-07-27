@@ -1,0 +1,99 @@
+{
+  "type": "object",
+  "value": {
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 3
+        },
+        "team-a": {
+          "type": "number",
+          "value": 0
+        }
+      }
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "group-id": {
+      "type": "string",
+      "value": "c683dd76f83040f1ac6c"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "P8sds0iDJaem6eVMJocY"
+    },
+    "team-a-id": {
+      "type": "string",
+      "value": "kOuZJh2tJS4K2J8ZVL4z"
+    },
+    "team-b-id": {
+      "type": "string",
+      "value": "8xgtvVw3p9TilFbavWQX"
+    },
+    "player-form": {
+      "value": {
+        "team-b": {
+          "type": "Array",
+          "value": []
+        },
+        "team-a": {
+          "type": "Array",
+          "value": []
+        }
+      },
+      "type": "object"
+    },
+    "stadistics": {
+      "value": {
+        "team-a": {
+          "type": "Array",
+          "value": []
+        },
+        "extra-goals-team-b": {
+          "type": "object",
+          "value": {
+            "description": {
+              "type": "string",
+              "value": "W- EQUIPO RETIRADO"
+            },
+            "goals": {
+              "type": "number",
+              "value": 3
+            }
+          }
+        },
+        "team-b": {
+          "type": "Array",
+          "value": []
+        },
+        "extra-goals-team-a": {
+          "type": "object",
+          "value": {
+            "goals": {
+              "type": "number",
+              "value": 0
+            },
+            "description": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "status": {
+      "type": "string",
+      "value": "completed"
+    }
+  }
+}

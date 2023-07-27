@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "value": {
+    "date": {
+      "type": "date",
+      "value": "2022-12-05T13:00:00.000Z"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "observations": {
+      "type": "string",
+      "value": "Verificaci\u00f3n de n\u00famero de las camisetas "
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/7b8edf7c699444c4a3db/matches/edb48d7826f5478ca173/captainASignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 5
+        },
+        "team-b": {
+          "type": "number",
+          "value": 0
+        }
+      }
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/7b8edf7c699444c4a3db/matches/edb48d7826f5478ca173/captainBSignature.jpg"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/7b8edf7c699444c4a3db/matches/edb48d7826f5478ca173/judgeSignature.jpg"
+    },
+    "group-id": {
+      "type": "string",
+      "value": "7b8edf7c699444c4a3db"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "bhq0R8ThmxrN5jf5hhcV"
+    }
+  }
+}

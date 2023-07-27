@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "last-name": {
+      "type": "string",
+      "value": "Palacios Giraldo"
+    },
+    "document": {
+      "type": "string",
+      "value": "1021932009"
+    },
+    "name": {
+      "type": "string",
+      "value": "Emmanuel"
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/hkO0lp8lbzq50s82Wu60"
+        }
+      ]
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

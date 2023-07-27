@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/4LfkNU3rGzlCHGLcn1D4/brand/mini-shield.png"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/yftRbm5ZA48UzxteRR60"
+        }
+      }
+    },
+    "name": {
+      "value": "Once Caldas B",
+      "type": "string"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "4LfkNU3rGzlCHGLcn1D4"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/4LfkNU3rGzlCHGLcn1D4/brand/shield.png"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "yftRbm5ZA48UzxteRR60"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

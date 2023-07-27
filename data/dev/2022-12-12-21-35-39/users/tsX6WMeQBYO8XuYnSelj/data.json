@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Carlos Andrés"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "undefined"
+    },
+    "phone": {
+      "type": "string",
+      "value": "3117829461"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Metaute Toro"
+    },
+    "email": {
+      "type": "string",
+      "value": "carlos_metaute75212@elpoli.edu.co"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/oldqdWpzjSqL5GV3Yh3I"
+        }
+      ]
+    }
+  }
+}

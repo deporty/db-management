@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "date": {
+      "type": "date",
+      "value": "2022-12-04T15:00:00.000Z"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/2666d07e0efc44f19f0c/judgeSignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 3
+        },
+        "team-b": {
+          "type": "number",
+          "value": 0
+        }
+      }
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/542eLN3ilWAObsDeTnqB"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/px2SwG2wbAogs3sKewFV"
+    },
+    "observations": {
+      "type": "string",
+      "value": "El partido termina al minuto 80 por faltas de garantía\nExpulsado el Señor DT Oscar Upegui al minuto 72 por actuar de modo ofensivo en contra del arbitro (\"Gestos groseros, incluyendo patadas a la maya del terreno de juego, después de ser expulsado utiliza el lenguaje ofensivo y grosero en contra del arbitro (malito, hiujueputa de la mierda). Encontrándose fuera del terreno desaprueba las decisiones arbitrales y sigue utilizando el lenguaje ofensivo y grosero en contra del arbitro, se detienen el juego por dicha situación, para advertir a la mesa de organización y al equipo once caldas de que si el señor seguía con ese comportamiento agresivo, afectando al buen desarrollo del juego el partido se tendría que suspender (se agotan todos los recursos para no suspender el juego). Pero el señor DT no acata la indicación afectando el comportamiento de sus jugadores, del equipo adversario y al buen desarrollo del juego por dicho motivo el juego se suspende por falta de garantías al minuto 80'"
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/2666d07e0efc44f19f0c/captainBSignature.jpg"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/2666d07e0efc44f19f0c/captainASignature.jpg"
+    }
+  }
+}

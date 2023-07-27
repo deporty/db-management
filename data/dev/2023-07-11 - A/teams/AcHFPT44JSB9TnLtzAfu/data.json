@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/Fz7s4k1XsJ8FPgXBHAKx"
+        }
+      }
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/AcHFPT44JSB9TnLtzAfu/brand/mini-shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "value": "Club Deportivo Fútbol Mora Mora",
+      "type": "string"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/AcHFPT44JSB9TnLtzAfu/brand/shield.jpeg"
+    },
+    "id": {
+      "type": "string",
+      "value": "AcHFPT44JSB9TnLtzAfu"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 13"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "Fz7s4k1XsJ8FPgXBHAKx"
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "sports-id": {
+      "value": [
+        {
+          "value": "5e4ee735d3cf4735a43d",
+          "type": "string"
+        }
+      ],
+      "type": "Array"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "object",
+  "value": {
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 2
+        },
+        "team-b": {
+          "type": "number",
+          "value": 2
+        }
+      }
+    },
+    "observations": {
+      "type": "string",
+      "value": "Árbitro: Juan David Giraldo"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/7LvfAXlf7QFVGEOPabdE/fixture-stages/hCt1EzKAnkBm3IvjRgP9/groups/365704a5b1b54488b0b7/matches/f0643fa958054dcabdf6/captainASignature.jpg"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-06T17:00:00.000Z"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/7LvfAXlf7QFVGEOPabdE/fixture-stages/hCt1EzKAnkBm3IvjRgP9/groups/365704a5b1b54488b0b7/matches/f0643fa958054dcabdf6/captainBSignature.jpg"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/7LvfAXlf7QFVGEOPabdE/fixture-stages/hCt1EzKAnkBm3IvjRgP9/groups/365704a5b1b54488b0b7/matches/f0643fa958054dcabdf6/judgeSignature.jpg"
+    },
+    "group-id": {
+      "type": "string",
+      "value": "365704a5b1b54488b0b7"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "XmPL0Gaia6p4a6mxOJ1X"
+    },
+    "team-a-id": {
+      "type": "string",
+      "value": "aT83kzfkTA1V81EyXNgk"
+    },
+    "team-b-id": {
+      "type": "string",
+      "value": "sLQV97LWxZkVjjX1TwZX"
+    }
+  }
+}

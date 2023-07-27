@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "document": {
+      "type": "string",
+      "value": "1056127288"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "VALENCIA HENAO"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "ALEJANDRO"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

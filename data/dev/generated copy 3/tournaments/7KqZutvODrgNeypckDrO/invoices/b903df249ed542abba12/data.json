@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "value": {
+    "date": {
+      "type": "date",
+      "value": "2022-12-06T05:00:00.000Z"
+    },
+    "maxPaymentDate": {
+      "type": "date",
+      "value": "2023-01-05T05:00:00.000Z"
+    },
+    "status": {
+      "type": "string",
+      "value": "pending"
+    },
+    "description": {
+      "type": "string",
+      "value": "Cuenta de cobro No. 1 de 1"
+    },
+    "amount": {
+      "type": "number",
+      "value": 64000
+    },
+    "subject": {
+      "type": "string",
+      "value": "Cuenta de cobro No. 1"
+    }
+  }
+}

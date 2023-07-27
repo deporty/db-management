@@ -1,0 +1,67 @@
+{
+  "type": "object",
+  "value": {
+    "date": {
+      "type": "date",
+      "value": "2022-12-05T13:00:00.000Z"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 0
+        },
+        "team-a": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/0329b247a4b64ac0a157/matches/d0cad43151fa4973afee/captainBSignature.jpg"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "observations": {
+      "type": "string",
+      "value": "Árbitro : Oscar castaño "
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/0329b247a4b64ac0a157/matches/d0cad43151fa4973afee/captainASignature.jpg"
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/0329b247a4b64ac0a157/matches/d0cad43151fa4973afee/judgeSignature.jpg"
+    },
+    "group-id": {
+      "type": "string",
+      "value": "0329b247a4b64ac0a157"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "XmPL0Gaia6p4a6mxOJ1X"
+    },
+    "team-a-id": {
+      "type": "string",
+      "value": "2wuUATtb3GtvEwwTC77z"
+    },
+    "team-b-id": {
+      "type": "string",
+      "value": "BlcjIYlOpYqICDut8YcC"
+    }
+  }
+}

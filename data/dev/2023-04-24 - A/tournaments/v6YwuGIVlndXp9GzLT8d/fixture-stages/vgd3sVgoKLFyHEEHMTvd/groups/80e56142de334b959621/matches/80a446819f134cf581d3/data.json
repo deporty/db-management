@@ -1,0 +1,67 @@
+{
+  "type": "object",
+  "value": {
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 0
+        },
+        "team-b": {
+          "type": "number",
+          "value": 6
+        }
+      }
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-04T23:00:00.000Z"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/80e56142de334b959621/matches/80a446819f134cf581d3/captainBSignature.jpg"
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/80e56142de334b959621/matches/80a446819f134cf581d3/judgeSignature.jpg"
+    },
+    "observations": {
+      "type": "string",
+      "value": "Reporte arbitral.\nJheyzon Aguirre: amonestado el director técnico de unión manizales por desaprobar desiciones arbitrales. "
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/80e56142de334b959621/matches/80a446819f134cf581d3/captainASignature.jpg"
+    },
+    "group-id": {
+      "type": "string",
+      "value": "80e56142de334b959621"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "Fl8q6kAyHiAxPEfCnp0c"
+    },
+    "team-a-id": {
+      "type": "string",
+      "value": "UBpwjGLMa1W1St0PXQjO"
+    },
+    "team-b-id": {
+      "type": "string",
+      "value": "ZzJnqR0jbPZW4FFciQxK"
+    }
+  }
+}

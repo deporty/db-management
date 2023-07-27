@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "value": {
+    "date": {
+      "type": "date",
+      "value": "2022-12-04T17:00:00.000Z"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/f69c27cde0624acbba8f/matches/3e1ecd28761c4667953e/captainASignature.jpg"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/f69c27cde0624acbba8f/matches/3e1ecd28761c4667953e/judgeSignature.jpg"
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/uVvaemEgV5nWAj3OBcIj/fixture-stages/n5OzWp1KYvo3XOpGPymb/groups/f69c27cde0624acbba8f/matches/3e1ecd28761c4667953e/captainBSignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 1
+        },
+        "team-b": {
+          "type": "number",
+          "value": 1
+        }
+      }
+    },
+    "observations": {
+      "type": "string",
+      "value": "Amarilla al profesor del Once Caldas \nAmarilla al profesor de estrellas\n\nAl minuto 22 del primer tiempo las barras (padres de familia) de equipo local y visitante tuvieron un cruce de palabras ofensivas y confrontaciones entre ellos y con los jugadores de ambos equipos, teniendo que detener el partido unos minutos. Al final del encuentro est\u00e1s barras emplearon lenguaje ofensivo contra el arbitro."
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "group-id": {
+      "type": "string",
+      "value": "f69c27cde0624acbba8f"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "XmPL0Gaia6p4a6mxOJ1X"
+    }
+  }
+}

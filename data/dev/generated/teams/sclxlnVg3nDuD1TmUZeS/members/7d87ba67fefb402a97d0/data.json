@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "value": {
+    "role": {
+      "type": "string",
+      "value": ""
+    },
+    "player": {
+      "type": "reference",
+      "value": "users/Tcl2Hxa5eE44Lme2sT59"
+    },
+    "number": {
+      "type": "number",
+      "value": 38
+    },
+    "init-date": {
+      "type": "date",
+      "value": "2022-12-01T05:00:00.000Z"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "type": "object",
+  "value": {
+    "id": {
+      "type": "string",
+      "value": "NDegOwVIWWBYSAQb3fHw"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/NDegOwVIWWBYSAQb3fHw/brand/shield.jpeg"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/NDegOwVIWWBYSAQb3fHw/brand/mini-shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/54Db11MZCrdOYuepje00"
+        }
+      }
+    },
+    "name": {
+      "value": "Enea F.C.",
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 17"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "54Db11MZCrdOYuepje00"
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "sports-id": {
+      "value": [
+        {
+          "value": "5e4ee735d3cf4735a43d",
+          "type": "string"
+        }
+      ],
+      "type": "Array"
+    }
+  }
+}

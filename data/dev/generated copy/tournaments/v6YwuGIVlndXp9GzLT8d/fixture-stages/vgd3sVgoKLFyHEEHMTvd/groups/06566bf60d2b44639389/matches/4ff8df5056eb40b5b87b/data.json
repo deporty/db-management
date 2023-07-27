@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "observations": {
+      "type": "string",
+      "value": "Se amolesta con tarjeta amarilla al profesor Jimmy Danilo calle del equipo huracanes "
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/kBystvg9Ni60jF799QgK"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-03T19:00:00.000Z"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 2
+        },
+        "team-b": {
+          "type": "number",
+          "value": 1
+        }
+      }
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/jQedYGA3sMI5Aqgd2HOL"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/06566bf60d2b44639389/matches/4ff8df5056eb40b5b87b/judgeSignature.jpg"
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/06566bf60d2b44639389/matches/4ff8df5056eb40b5b87b/captainBSignature.jpg"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/0yeEi3NTx9scReFPrm1X"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/06566bf60d2b44639389/matches/4ff8df5056eb40b5b87b/captainASignature.jpg"
+    }
+  }
+}

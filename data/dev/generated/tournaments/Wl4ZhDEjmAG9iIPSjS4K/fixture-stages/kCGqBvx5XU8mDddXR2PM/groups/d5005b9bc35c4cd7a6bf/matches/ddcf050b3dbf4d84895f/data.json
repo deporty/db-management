@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "observations": {
+      "type": "string",
+      "value": "amarilla para el tecnico de atletico "
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/1uFexPkLtA2EzxTHdrLA"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/Wl4ZhDEjmAG9iIPSjS4K/fixture-stages/kCGqBvx5XU8mDddXR2PM/groups/d5005b9bc35c4cd7a6bf/matches/ddcf050b3dbf4d84895f/captainASignature.jpg"
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/Wl4ZhDEjmAG9iIPSjS4K/fixture-stages/kCGqBvx5XU8mDddXR2PM/groups/d5005b9bc35c4cd7a6bf/matches/ddcf050b3dbf4d84895f/judgeSignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 1
+        },
+        "team-a": {
+          "type": "number",
+          "value": 2
+        }
+      }
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/xDPOwwMGlXFZffEqobIh"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-06T13:00:00.000Z"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/Wl4ZhDEjmAG9iIPSjS4K/fixture-stages/kCGqBvx5XU8mDddXR2PM/groups/d5005b9bc35c4cd7a6bf/matches/ddcf050b3dbf4d84895f/captainBSignature.jpg"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    }
+  }
+}

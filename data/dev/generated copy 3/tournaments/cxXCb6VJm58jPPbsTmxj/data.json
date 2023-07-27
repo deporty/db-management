@@ -1,0 +1,95 @@
+{
+  "type": "object",
+  "value": {
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "organization": {
+      "type": "reference",
+      "value": "organizations/Wsib20rGNlTR2UsU42eY"
+    },
+    "reward": {
+      "type": "Array",
+      "value": []
+    },
+    "name": {
+      "type": "string",
+      "value": "Copa Ciudad Manizales V2 Sub 11 Oro"
+    },
+    "id": {
+      "type": "string",
+      "value": "cxXCb6VJm58jPPbsTmxj"
+    },
+    "starts-date": {
+      "type": "date",
+      "value": "2022-12-02T05:00:00.000Z"
+    },
+    "financial-statements": {
+      "type": "object",
+      "value": {
+        "status": {
+          "type": "string",
+          "value": "pending"
+        },
+        "num-of-invoices": {
+          "type": "number",
+          "value": 1
+        },
+        "amount": {
+          "type": "number",
+          "value": 288000
+        }
+      }
+    },
+    "flayer": {
+      "type": "string",
+      "value": "tournaments/cxXCb6VJm58jPPbsTmxj/preview.jpg"
+    },
+    "inscription": {
+      "type": "number",
+      "value": 0
+    },
+    "locations": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "locations/Fl8q6kAyHiAxPEfCnp0c"
+        },
+        {
+          "type": "reference",
+          "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+        },
+        {
+          "type": "reference",
+          "value": "locations/P8sds0iDJaem6eVMJocY"
+        },
+        {
+          "type": "reference",
+          "value": "locations/XmPL0Gaia6p4a6mxOJ1X"
+        },
+        {
+          "type": "reference",
+          "value": "locations/bhq0R8ThmxrN5jf5hhcV"
+        },
+        {
+          "type": "reference",
+          "value": "locations/gpFqyEIQdovjkop76ZfJ"
+        },
+        {
+          "type": "reference",
+          "value": "locations/kBystvg9Ni60jF799QgK"
+        }
+      ]
+    },
+    "description": {
+      "type": "string",
+      "value": ""
+    },
+    "status": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

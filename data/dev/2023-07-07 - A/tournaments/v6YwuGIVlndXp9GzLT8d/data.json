@@ -1,0 +1,130 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "value": "Copa Ciudad Manizales Oro",
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "reward": {
+      "type": "Array",
+      "value": []
+    },
+    "financial-statements": {
+      "type": "object",
+      "value": {
+        "num-of-invoices": {
+          "type": "number",
+          "value": 1
+        },
+        "status": {
+          "type": "string",
+          "value": "pending"
+        },
+        "amount": {
+          "type": "number",
+          "value": 256000
+        }
+      }
+    },
+    "description": {
+      "type": "string",
+      "value": ""
+    },
+    "inscription": {
+      "type": "number",
+      "value": 0
+    },
+    "status": {
+      "value": "finished",
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "value": "v6YwuGIVlndXp9GzLT8d"
+    },
+    "starts-date": {
+      "type": "date",
+      "value": "2022-12-02T05:00:00.000Z"
+    },
+    "locations": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "Fl8q6kAyHiAxPEfCnp0c"
+        },
+        {
+          "type": "string",
+          "value": "IE4qNsCVvLcDmAb6dRc3"
+        },
+        {
+          "type": "string",
+          "value": "P8sds0iDJaem6eVMJocY"
+        },
+        {
+          "type": "string",
+          "value": "XmPL0Gaia6p4a6mxOJ1X"
+        },
+        {
+          "type": "string",
+          "value": "bhq0R8ThmxrN5jf5hhcV"
+        },
+        {
+          "type": "string",
+          "value": "gpFqyEIQdovjkop76ZfJ"
+        },
+        {
+          "type": "string",
+          "value": "kBystvg9Ni60jF799QgK"
+        }
+      ]
+    },
+    "flayer": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/preview.jpg"
+    },
+    "organization-id": {
+      "type": "string",
+      "value": "Wsib20rGNlTR2UsU42eY"
+    },
+    "version": {
+      "value": "2",
+      "type": "string"
+    },
+    "year": {
+      "value": 2022,
+      "type": "number"
+    },
+    "tags": {
+      "value": [
+        {
+          "type": "string",
+          "value": "Oro"
+        }
+      ],
+      "type": "Array"
+    },
+    "tournament-layout-id": {
+      "value": "155b473c8db7486f995d",
+      "type": "string"
+    },
+    "podium": [
+      {
+        "type": "string",
+        "value": "ZzJnqR0jbPZW4FFciQxK"
+      },
+      {
+        "type": "string",
+        "value": "jQedYGA3sMI5Aqgd2HOL"
+      },
+      {
+        "type": "string",
+        "value": "0yeEi3NTx9scReFPrm1X"
+      }
+    ]
+  }
+}

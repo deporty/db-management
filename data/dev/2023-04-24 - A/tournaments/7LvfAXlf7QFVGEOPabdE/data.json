@@ -1,0 +1,95 @@
+{
+  "type": "object",
+  "value": {
+    "id": {
+      "type": "string",
+      "value": "7LvfAXlf7QFVGEOPabdE"
+    },
+    "starts-date": {
+      "type": "date",
+      "value": "2022-12-06T05:00:00.000Z"
+    },
+    "name": {
+      "type": "string",
+      "value": "Copa Ciudad Manizales V2 Sub 15 Bronce"
+    },
+    "status": {
+      "type": "string",
+      "value": ""
+    },
+    "flayer": {
+      "type": "string",
+      "value": "tournaments/7LvfAXlf7QFVGEOPabdE/preview.jpg"
+    },
+    "description": {
+      "type": "string",
+      "value": ""
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "inscription": {
+      "type": "number",
+      "value": 0
+    },
+    "financial-statements": {
+      "type": "object",
+      "value": {
+        "status": {
+          "type": "string",
+          "value": "pending"
+        },
+        "num-of-invoices": {
+          "type": "number",
+          "value": 1
+        },
+        "amount": {
+          "type": "number",
+          "value": 128000
+        }
+      }
+    },
+    "reward": {
+      "type": "Array",
+      "value": []
+    },
+    "locations": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "Fl8q6kAyHiAxPEfCnp0c"
+        },
+        {
+          "type": "string",
+          "value": "IE4qNsCVvLcDmAb6dRc3"
+        },
+        {
+          "type": "string",
+          "value": "P8sds0iDJaem6eVMJocY"
+        },
+        {
+          "type": "string",
+          "value": "XmPL0Gaia6p4a6mxOJ1X"
+        },
+        {
+          "type": "string",
+          "value": "bhq0R8ThmxrN5jf5hhcV"
+        },
+        {
+          "type": "string",
+          "value": "gpFqyEIQdovjkop76ZfJ"
+        },
+        {
+          "type": "string",
+          "value": "kBystvg9Ni60jF799QgK"
+        }
+      ]
+    },
+    "organization-id": {
+      "type": "string",
+      "value": "Wsib20rGNlTR2UsU42eY"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/C0CKonLcaU1X8LcMslFl/brand/mini-shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 13"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/X2Y5Wbr55Xque5a6GP7T"
+        }
+      }
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "C0CKonLcaU1X8LcMslFl"
+    },
+    "name": {
+      "value": "Huracanes Manizales",
+      "type": "string"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/C0CKonLcaU1X8LcMslFl/brand/shield.jpeg"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "X2Y5Wbr55Xque5a6GP7T"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

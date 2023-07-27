@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "team-a": {
+      "type": "reference",
+      "value": "teams/0cYjNe9AIFbdn7S98I97"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 2
+        },
+        "team-a": {
+          "type": "number",
+          "value": 2
+        }
+      }
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/7LvfAXlf7QFVGEOPabdE/fixture-stages/hCt1EzKAnkBm3IvjRgP9/groups/365704a5b1b54488b0b7/matches/5fd3598f16b24b1ab49e/judgeSignature.jpg"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/1VeHanuwiZwNTO7DBMEy"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/7LvfAXlf7QFVGEOPabdE/fixture-stages/hCt1EzKAnkBm3IvjRgP9/groups/365704a5b1b54488b0b7/matches/5fd3598f16b24b1ab49e/captainASignature.jpg"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-06T21:00:00.000Z"
+    },
+    "observations": {
+      "type": "string",
+      "value": "Holcausto Marcador final 2 goles del 8 y 31 amonestados: 8 y 11\nCantera: Marcador final 2 goles del 16 y del 30 amonestados 19 \n"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/kBystvg9Ni60jF799QgK"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/7LvfAXlf7QFVGEOPabdE/fixture-stages/hCt1EzKAnkBm3IvjRgP9/groups/365704a5b1b54488b0b7/matches/5fd3598f16b24b1ab49e/captainBSignature.jpg"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "type": "object",
+  "value": {
+    "id": {
+      "type": "string",
+      "value": "Wlk6LxQl1xMSXPuT3nuC"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/mE26xhITNBx4oWZcfOEz"
+        }
+      }
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/Wlk6LxQl1xMSXPuT3nuC/brand/mini-shield.jpeg"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/Wlk6LxQl1xMSXPuT3nuC/brand/shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "value": "Manizales F.C.",
+      "type": "string"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "mE26xhITNBx4oWZcfOEz"
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "sports-id": {
+      "value": [
+        {
+          "value": "9cf8f95aa359486cbbf7",
+          "type": "string"
+        }
+      ],
+      "type": "Array"
+    }
+  }
+}

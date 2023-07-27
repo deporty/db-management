@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "value": {
+    "default-ad": {
+      "type": "string",
+      "value": "md"
+    },
+    "title": {
+      "type": "string",
+      "value": "evento"
+    },
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "md": {
+          "type": "string",
+          "value": "ads/IqZHKqXlE9x8daZGXVaE/md.png"
+        },
+        "lg": {
+          "type": "string",
+          "value": "ads/IqZHKqXlE9x8daZGXVaE/lg.png"
+        },
+        "xxl": {
+          "type": "string",
+          "value": "ads/IqZHKqXlE9x8daZGXVaE/xxl.png"
+        },
+        "sm": {
+          "type": "string",
+          "value": "ads/IqZHKqXlE9x8daZGXVaE/sm.png"
+        },
+        "xl": {
+          "type": "string",
+          "value": "ads/IqZHKqXlE9x8daZGXVaE/xl.png"
+        },
+        "xs": {
+          "type": "string",
+          "value": "ads/IqZHKqXlE9x8daZGXVaE/xs.png"
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "value": "active"
+    }
+  }
+}

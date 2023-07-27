@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Jon Wilmer"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Lizarazo Aponte"
+    },
+    "phone": {
+      "type": "string",
+      "value": "3105892602"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": "info@clubcaterpillarmotor.com"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/oldqdWpzjSqL5GV3Yh3I"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": "undefined"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "team-a": {
+      "type": "reference",
+      "value": "teams/1VeHanuwiZwNTO7DBMEy"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-05T21:00:00.000Z"
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/Fl8q6kAyHiAxPEfCnp0c"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "observations": {
+      "type": "string",
+      "value": "Se expulsa al director técnico de la cantera"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/47a40a13d79b4c009368/matches/1072f939fd67495ba39c/captainASignature.jpg"
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/47a40a13d79b4c009368/matches/1072f939fd67495ba39c/captainBSignature.jpg"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/i6lrKsXBhcNGdtsevKJj"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 2
+        },
+        "team-a": {
+          "type": "number",
+          "value": 1
+        }
+      }
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/47a40a13d79b4c009368/matches/1072f939fd67495ba39c/judgeSignature.jpg"
+    }
+  }
+}

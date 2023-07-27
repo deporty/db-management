@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/uhH0M7ycIClD4d30iqvw"
+        }
+      }
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "value": "Caterpillar Motor A",
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "id": {
+      "type": "string",
+      "value": "sLQV97LWxZkVjjX1TwZX"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/sLQV97LWxZkVjjX1TwZX/brand/shield.jpeg"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/sLQV97LWxZkVjjX1TwZX/brand/mini-shield.jpeg"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "uhH0M7ycIClD4d30iqvw"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

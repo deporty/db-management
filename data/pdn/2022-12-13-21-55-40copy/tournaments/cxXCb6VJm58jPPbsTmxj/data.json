@@ -1,0 +1,440 @@
+{
+  "type": "object",
+  "value": {
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "organization": {
+      "type": "reference",
+      "value": "organizations/Wsib20rGNlTR2UsU42eY"
+    },
+    "reward": {
+      "type": "Array",
+      "value": []
+    },
+    "name": {
+      "type": "string",
+      "value": "Copa Ciudad Manizales V2 Sub 11 Oro"
+    },
+    "id": {
+      "type": "string",
+      "value": "cxXCb6VJm58jPPbsTmxj"
+    },
+    "starts-date": {
+      "type": "date",
+      "value": "2022-12-02T05:00:00.000Z"
+    },
+    "financial-statements": {
+      "type": "object",
+      "value": {
+        "status": {
+          "type": "string",
+          "value": "pending"
+        },
+        "num-of-invoices": {
+          "type": "number",
+          "value": 1
+        },
+        "amount": {
+          "type": "number",
+          "value": 288000
+        },
+        "invoices": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "object",
+              "value": {
+                "maxPaymentDate": {
+                  "type": "date",
+                  "value": "2023-01-01T05:00:00.000Z"
+                },
+                "amount": {
+                  "type": "number",
+                  "value": 288000
+                },
+                "status": {
+                  "type": "string",
+                  "value": "pending"
+                },
+                "subject": {
+                  "type": "string",
+                  "value": "Cuenta de cobro No. 1"
+                },
+                "description": {
+                  "type": "string",
+                  "value": "Cuenta de cobro No. 1 de 1"
+                },
+                "date": {
+                  "type": "date",
+                  "value": "2022-12-02T05:00:00.000Z"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "flayer": {
+      "type": "string",
+      "value": "tournaments/cxXCb6VJm58jPPbsTmxj/preview.jpg"
+    },
+    "inscription": {
+      "type": "number",
+      "value": 0
+    },
+    "locations": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "locations/Fl8q6kAyHiAxPEfCnp0c"
+        },
+        {
+          "type": "reference",
+          "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+        },
+        {
+          "type": "reference",
+          "value": "locations/P8sds0iDJaem6eVMJocY"
+        },
+        {
+          "type": "reference",
+          "value": "locations/XmPL0Gaia6p4a6mxOJ1X"
+        },
+        {
+          "type": "reference",
+          "value": "locations/bhq0R8ThmxrN5jf5hhcV"
+        },
+        {
+          "type": "reference",
+          "value": "locations/gpFqyEIQdovjkop76ZfJ"
+        },
+        {
+          "type": "reference",
+          "value": "locations/kBystvg9Ni60jF799QgK"
+        }
+      ]
+    },
+    "registered-teams": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:15:08.000Z"
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/ANYdEVEsLKC13PfBGctO"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:15:48.000Z"
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/1uFexPkLtA2EzxTHdrLA"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/iAwHUoxblfazUZjPpeCd"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:17:07.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:17:15.000Z"
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/cWYouAXFKBiulsYHUkcN"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/Wlk6LxQl1xMSXPuT3nuC"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:18:07.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:19:20.000Z"
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/Mu0SfxVdwhro4lAymYUR"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/20ug5VJyvYdGutibDjip"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:20:56.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:21:53.000Z"
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/SMg6AYs8msQaPXkFfN3W"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:23:40.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/E2IDDwYkiDx8oEUpg0LX"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/VodxMvH1xqzPWyrHOvUX"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T06:25:46.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T04:18:37.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/INIsXTd2midxnA6ANJ9F"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/zVHg9pIZcdUsAXbmUczd"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T04:22:08.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/xDPOwwMGlXFZffEqobIh"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T04:22:31.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T04:23:28.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/XpqKqRsqSaOm2NH1g5aD"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/294zF6AlXaMskvMqWbJ8"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T04:33:39.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/7G1zmfitEwgU0jpuuwtw"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T04:38:25.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/sC1tfJL5C5ZPLmIZQASN"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T04:43:19.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/DMyyLNT3AYAMEtbtxMvz"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T16:31:14.000Z"
+            }
+          }
+        }
+      ]
+    },
+    "description": {
+      "type": "string",
+      "value": ""
+    },
+    "status": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

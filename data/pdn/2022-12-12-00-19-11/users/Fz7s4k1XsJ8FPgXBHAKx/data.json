@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Mauricio"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "email": {
+      "type": "string",
+      "value": "erikaacevedodelgado@gmail.com"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Suarez"
+    },
+    "phone": {
+      "type": "string",
+      "value": "3122326677"
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "first-name": {
+      "type": "string",
+      "value": "Jeiser"
+    },
+    "second-name": {
+      "type": "string",
+      "value": "Andrey"
+    },
+    "first-last-name": {
+      "type": "string",
+      "value": "Galvis"
+    },
+    "second-last-name": {
+      "type": "string",
+      "value": "Romero"
+    },
+    "document": {
+      "type": "string",
+      "value": "1024520688"
+    },
+    "id": {
+      "type": "string",
+      "value": "c96fb1775d08401c8925"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "sports-modalities": {
+      "type": "object",
+      "value": {
+        "soccer": {
+          "type": "object",
+          "value": {}
+        }
+      }
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

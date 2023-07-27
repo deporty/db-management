@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 3
+        },
+        "team-a": {
+          "type": "number",
+          "value": 2
+        }
+      }
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+    },
+    "observations": {
+      "type": "string",
+      "value": "Amarilla al prfe clubanti\nbenjamir arboleda."
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/cxXCb6VJm58jPPbsTmxj/fixture-stages/Z37H11JthFHU8L2ldcnm/groups/532cdc53c3df4bf59364/matches/6e6060bfd00d423f8b03/captainBSignature.jpg"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/DMyyLNT3AYAMEtbtxMvz"
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/cxXCb6VJm58jPPbsTmxj/fixture-stages/Z37H11JthFHU8L2ldcnm/groups/532cdc53c3df4bf59364/matches/6e6060bfd00d423f8b03/judgeSignature.jpg"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-04T18:30:00.000Z"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/ANYdEVEsLKC13PfBGctO"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/cxXCb6VJm58jPPbsTmxj/fixture-stages/Z37H11JthFHU8L2ldcnm/groups/532cdc53c3df4bf59364/matches/6e6060bfd00d423f8b03/captainASignature.jpg"
+    }
+  }
+}

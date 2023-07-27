@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Raul"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Andrés Martínez"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "email": {
+      "type": "string",
+      "value": "rauandremartinez@gmail.com"
+    },
+    "phone": {
+      "type": "string",
+      "value": "3122244943"
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

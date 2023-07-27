@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "value": {
+    "date": {
+      "type": "date",
+      "value": "2022-12-03T19:00:00.000Z"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/1fd33e9ea4224357a864/matches/0c6fbdeeafdf424796f1/captainASignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 1
+        },
+        "team-b": {
+          "type": "number",
+          "value": 2
+        }
+      }
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/1fd33e9ea4224357a864/matches/0c6fbdeeafdf424796f1/judgeSignature.jpg"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "observations": {
+      "type": "string",
+      "value": "Reporte arbitral. \nSebastian toro : Expulsado el director t\u00e9cnico del equipo Wikam por emplear lenguaje ofensivo en contra del \u00e1rbitro (regalado y comprado). \nExpulsado el director t\u00e9cnico del equipo de Quinta Oriental por doble amonestaci\u00f3n.\n"
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/fixture-stages/vgd3sVgoKLFyHEEHMTvd/groups/1fd33e9ea4224357a864/matches/0c6fbdeeafdf424796f1/captainBSignature.jpg"
+    },
+    "group-id": {
+      "type": "string",
+      "value": "1fd33e9ea4224357a864"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "Fl8q6kAyHiAxPEfCnp0c"
+    }
+  }
+}

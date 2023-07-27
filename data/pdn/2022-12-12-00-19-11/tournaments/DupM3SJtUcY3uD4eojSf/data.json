@@ -1,0 +1,1430 @@
+{
+  "type": "object",
+  "value": {
+    "starts-date": {
+      "type": "date",
+      "value": "2022-12-07T05:00:00.000Z"
+    },
+    "status": {
+      "type": "string",
+      "value": ""
+    },
+    "financial-statements": {
+      "type": "object",
+      "value": {
+        "status": {
+          "type": "string",
+          "value": "pending"
+        },
+        "invoices": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "object",
+              "value": {
+                "description": {
+                  "type": "string",
+                  "value": "Cuenta de cobro No. 1 de 1"
+                },
+                "amount": {
+                  "type": "number",
+                  "value": 64000
+                },
+                "status": {
+                  "type": "string",
+                  "value": "pending"
+                },
+                "date": {
+                  "type": "date",
+                  "value": "2022-12-07T05:00:00.000Z"
+                },
+                "subject": {
+                  "type": "string",
+                  "value": "Cuenta de cobro No. 1"
+                },
+                "maxPaymentDate": {
+                  "type": "date",
+                  "value": "2023-01-06T05:00:00.000Z"
+                }
+              }
+            }
+          ]
+        },
+        "num-of-invoices": {
+          "type": "number",
+          "value": 1
+        },
+        "amount": {
+          "type": "number",
+          "value": 64000
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "DupM3SJtUcY3uD4eojSf"
+    },
+    "flayer": {
+      "type": "string",
+      "value": "tournaments/DupM3SJtUcY3uD4eojSf/preview.jpg"
+    },
+    "organization": {
+      "type": "reference",
+      "value": "organizations/Wsib20rGNlTR2UsU42eY"
+    },
+    "description": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Copa Ciudad Manizales V2 Sub 15 Plata"
+    },
+    "reward": {
+      "type": "Array",
+      "value": []
+    },
+    "registered-teams": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-12-06T22:02:38.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/ZWisumwduHiwxRLdFxMX"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 17
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Cusp1DptUH15nKt0ny7U"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 22
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/iHirIstRHIWEK2mpWyf3"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/ovKiJcB5PcVkRcnZy1Iq"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 25
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 23
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/RNF0FMi1NMxOTFFfUVKa"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 70
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Sm8cIitq8WqRWyaALbSl"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/xdXlDM2u1njLqzRiqeGD"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 14
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/LfyunaccqvJhvqugj8mc"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 9
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/CWQSKetDHZvQHWxHguCT"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 11
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 19
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/k0R1jq9MJG0zpyfS2szD"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/NM8kIL7H91NQe6tKE65R"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 6
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/QCX1X2xKRjdlFeNQiPU6"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 8
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/EV8ywVT4wFE8rKJguacT"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 30
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 29
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/7kszkMhgJyRL9PL5BJT5"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/A9SmDZVOQQAqWN6UPgiB"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 10
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/i4F39WxfA7RvG9A8S8BV"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 5
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 18
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/8bo2D35kqdpXexHfGEZI"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Yrz1jyjdIQeSWQSfYiG8"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 12
+                    }
+                  }
+                }
+              ]
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/QB5unHdmuczefi0Up2Iv"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-12-06T22:04:26.377Z"
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/0BP9FbYGqVqZKQ9K1378"
+            },
+            "members": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 8
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/fBTkEiloaqQ6DrAAqSsz"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 15
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/8Sxk48sk8Z476xRIYCEA"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 32
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/1cnlP1jfahRMsI7iBQeT"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 3
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Zg5awYIeFUMbVfXjLEaM"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Z3kuCLGVovkRwESxG6b3"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 11
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/DSQLo3m5rbGnmJtRvKet"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 17
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Yk5HQLLYtzhxUasr5MGw"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 28
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/kJfroTwK7OrGbUcQLOIo"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/lOcsHxC8W48BadSN1K1F"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 10
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 35
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/r3LU9TvtwCMQwi9N9Vju"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/dAkyJCaQ5SuxxCIMk6nJ"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 27
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/LIKrDEYdGLPMBf8lburF"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 2
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 34
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Wa2kApkGODTTMtCL63to"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Ck8z6QG1mGqsNGjA7yd7"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 30
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/XENes6V5Apxw8tsJuuPv"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 21
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 16
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/ky66Tlheszow0hSEgfMk"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/RTdzDn2nLQctsiVSzSxm"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 19
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/YCzwHDRm0Wnxx7q0Rkd5"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 33
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/UaQUHNgGl57scMORPUJe"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-12-06T22:04:26.377Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/8wWduiEXmceFRdoQGlXf"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 6
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/WzCpOPEXY9tzHIuuM2gO"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 21
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 16
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/KbYK9TDEFshPhwHaA9ZG"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/NrPpV6BqB0dm6GM9DXg4"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 4
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/JzBpFVNzIDLhyy4ZxfOL"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 9
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Y0vvclPGr684DI1wyJk9"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 8
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 26
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/RfqzxXmIktTMczdboI9P"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 2
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/7JDztAzt0DjESQVJbLlg"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 11
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/8FI2jY3IYke3uVisxQPX"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 27
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/4gvFIeS4luupQPnISEUC"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 5
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/eecXdQmM3NpXBYix1YEG"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/Bq8EW5da1sq74O2XU9F7"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 21
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/evyCPgmB2c6D8uc9QgNj"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/yjLAikP1OJl76Qk0CMCI"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 3
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 27
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/8zQm02Z5HXljxaugSpYg"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/CvyJIL8uZtix6f3PacTw"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 80
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 7
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/dLJjmsxms4X2tO6vli08"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/i6lrKsXBhcNGdtsevKJj"
+            },
+            "members": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/wztOhs4eoxwGah89wm51"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 3
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/m3CzreNDum1GrTgaPAHE"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/bPNXFxA2dtYDf3MeEKNA"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 4
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/X0VQ92wXYPRwmoiK0euC"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 6
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 7
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/YIm0D7Yz81piGr9zVuJZ"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/DyNAAGxqkqJz9oylzAfY"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 8
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/FroKs6HhkiSw4RDSN7SW"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 9
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/qjjJQWgjXaJw8gwRbn3F"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 11
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/5CH9DqBOOgApUz4LRINo"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 12
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 13
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/xrXiCvqIsBbv6IJCdmrx"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/x1xJRSAbzCIbUVwiwHCc"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 14
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/tZTab5sS4GW3BvusgujG"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 15
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 23
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/XVTWr6097ihE8ww25rMU"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 10
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/acw8FAl5gVT45bQ75NDa"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/VleIIQXq33DcgkqcMFuL"
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 17
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/v3C4vDrbZnqfXaVYRHIj"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 16
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 19
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/G7SAWSlKgYcsAEMlJ1m7"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "number": {
+                      "type": "number",
+                      "value": 20
+                    },
+                    "player": {
+                      "type": "reference",
+                      "value": "users/rXqgOPUVAfRvRhMdQcbO"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "player": {
+                      "type": "reference",
+                      "value": "users/bNH4AeuuSGxe76oCKF8c"
+                    },
+                    "role": {
+                      "type": "string",
+                      "value": ""
+                    },
+                    "number": {
+                      "type": "number",
+                      "value": 22
+                    }
+                  }
+                }
+              ]
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-12-06T22:04:26.377Z"
+            }
+          }
+        }
+      ]
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "inscription": {
+      "type": "number",
+      "value": 0
+    },
+    "locations": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "locations/Fl8q6kAyHiAxPEfCnp0c"
+        },
+        {
+          "type": "reference",
+          "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+        },
+        {
+          "type": "reference",
+          "value": "locations/P8sds0iDJaem6eVMJocY"
+        },
+        {
+          "type": "reference",
+          "value": "locations/XmPL0Gaia6p4a6mxOJ1X"
+        },
+        {
+          "type": "reference",
+          "value": "locations/bhq0R8ThmxrN5jf5hhcV"
+        },
+        {
+          "type": "reference",
+          "value": "locations/gpFqyEIQdovjkop76ZfJ"
+        },
+        {
+          "type": "reference",
+          "value": "locations/kBystvg9Ni60jF799QgK"
+        }
+      ]
+    }
+  }
+}

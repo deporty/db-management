@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "category": {
+      "type": "string",
+      "value": "Sub 17"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/qxrDBWoLDglUnsl9iTi7"
+        }
+      }
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "value": "C.D. Atlas Bogotá F.C.",
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "value": "HmnJeNEhgZ6qz30KZwoq"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/HmnJeNEhgZ6qz30KZwoq/brand/shield.jpeg"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/HmnJeNEhgZ6qz30KZwoq/brand/mini-shield.jpeg"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "qxrDBWoLDglUnsl9iTi7"
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "sports-id": {
+      "value": [
+        {
+          "value": "5e4ee735d3cf4735a43d",
+          "type": "string"
+        }
+      ],
+      "type": "Array"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    }
+  }
+}

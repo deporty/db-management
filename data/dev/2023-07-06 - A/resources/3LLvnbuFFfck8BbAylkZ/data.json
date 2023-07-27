@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "value": {
+    "description": {
+      "type": "string",
+      "value": "Permite consultar todos los jugadores"
+    },
+    "identifier": {
+      "type": "string",
+      "value": "players:get-all-players"
+    },
+    "name": {
+      "type": "string",
+      "value": "Consultar jugadores"
+    }
+  }
+}

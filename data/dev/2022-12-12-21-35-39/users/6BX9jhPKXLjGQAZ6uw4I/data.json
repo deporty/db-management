@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "phone": {
+      "type": "string",
+      "value": "3117267756"
+    },
+    "name": {
+      "type": "string",
+      "value": "Jose Anderson"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": "almagibe@gmail.com"
+    },
+    "document": {
+      "type": "string",
+      "value": "undefined"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Palacio"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/oldqdWpzjSqL5GV3Yh3I"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Rodriguez Betancur"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/hkO0lp8lbzq50s82Wu60"
+        }
+      ]
+    },
+    "name": {
+      "type": "string",
+      "value": "juan Pablo"
+    },
+    "document": {
+      "type": "string",
+      "value": "1015448495"
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

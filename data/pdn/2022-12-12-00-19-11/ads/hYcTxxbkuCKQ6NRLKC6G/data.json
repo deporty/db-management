@@ -1,0 +1,54 @@
+{
+  "type": "object",
+  "value": {
+    "id": {
+      "type": "string",
+      "value": "hYcTxxbkuCKQ6NRLKC6G"
+    },
+    "default-ad": {
+      "type": "string",
+      "value": "md"
+    },
+    "status": {
+      "type": "string",
+      "value": "active"
+    },
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "xs": {
+          "type": "string",
+          "value": "ads/hYcTxxbkuCKQ6NRLKC6G/xs.jpg"
+        },
+        "md": {
+          "type": "string",
+          "value": "ads/hYcTxxbkuCKQ6NRLKC6G/md.jpg"
+        },
+        "lg": {
+          "type": "string",
+          "value": "ads/hYcTxxbkuCKQ6NRLKC6G/lg.jpg"
+        },
+        "xl": {
+          "type": "string",
+          "value": "ads/hYcTxxbkuCKQ6NRLKC6G/xl.jpg"
+        },
+        "sm": {
+          "type": "string",
+          "value": "ads/hYcTxxbkuCKQ6NRLKC6G/sm.jpg"
+        }
+      }
+    },
+    "counter-clicks": {
+      "type": "number",
+      "value": 97
+    },
+    "link": {
+      "type": "string",
+      "value": "https://www.instagram.com/kinpes_co"
+    },
+    "title": {
+      "type": "string",
+      "value": "Kinpes"
+    }
+  }
+}

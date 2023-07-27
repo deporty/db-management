@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/pKifLvmX5jzkJYG5Mfbu/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 13"
+    },
+    "id": {
+      "type": "string",
+      "value": "pKifLvmX5jzkJYG5Mfbu"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/pKifLvmX5jzkJYG5Mfbu/brand/mini-shield.jpeg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/T1y3Z4ByRVYRCmqcKqbm"
+        }
+      }
+    },
+    "name": {
+      "value": "Wikam F.C.",
+      "type": "string"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "T1y3Z4ByRVYRCmqcKqbm"
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "sports-id": {
+      "value": [
+        {
+          "value": "5e4ee735d3cf4735a43d",
+          "type": "string"
+        }
+      ],
+      "type": "Array"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    }
+  }
+}

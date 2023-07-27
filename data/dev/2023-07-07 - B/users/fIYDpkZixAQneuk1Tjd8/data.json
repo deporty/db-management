@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "value": {
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "5716640"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "first-name": {
+      "value": "Carlos",
+      "type": "string"
+    },
+    "second-name": {
+      "value": "Abraham",
+      "type": "string"
+    },
+    "first-last-name": {
+      "value": "Bruto",
+      "type": "string"
+    },
+    "second-last-name": {
+      "value": "Rodriguez",
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "value": "Club Deportivo El Vergel A",
+      "type": "string"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/9oDqPTjGvZLcpqp4znSQ"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "b0IQSmxnjJMjeXBBXiF0"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/b0IQSmxnjJMjeXBBXiF0/brand/mini-shield.jpeg"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/b0IQSmxnjJMjeXBBXiF0/brand/shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 13"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "9oDqPTjGvZLcpqp4znSQ"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

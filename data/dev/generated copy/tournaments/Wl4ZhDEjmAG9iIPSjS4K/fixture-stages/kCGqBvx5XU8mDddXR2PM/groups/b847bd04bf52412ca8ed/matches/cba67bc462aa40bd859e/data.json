@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "value": {
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 3
+        },
+        "team-b": {
+          "type": "number",
+          "value": 0
+        }
+      }
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/cWYouAXFKBiulsYHUkcN"
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/DMyyLNT3AYAMEtbtxMvz"
+    }
+  }
+}

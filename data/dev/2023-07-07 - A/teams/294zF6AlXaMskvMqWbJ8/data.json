@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "value": "Corporación Deportiva Chinchiná",
+      "type": "string"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/294zF6AlXaMskvMqWbJ8/brand/mini-shield.jpg"
+    },
+    "id": {
+      "type": "string",
+      "value": "294zF6AlXaMskvMqWbJ8"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/294zF6AlXaMskvMqWbJ8/brand/shield.jpg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/mmzjCxYXZ1h3R3E43cAD"
+        }
+      }
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "mmzjCxYXZ1h3R3E43cAD"
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "sports-id": {
+      "value": [
+        {
+          "value": "9cf8f95aa359486cbbf7",
+          "type": "string"
+        }
+      ],
+      "type": "Array"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    }
+  }
+}

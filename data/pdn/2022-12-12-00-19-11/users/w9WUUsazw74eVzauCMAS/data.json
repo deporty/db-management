@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Juan Martín"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Prada Bernal"
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1019907593"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

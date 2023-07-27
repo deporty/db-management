@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "value": {
+    "first-name": {
+      "type": "string",
+      "value": "Wilson"
+    },
+    "second-name": {
+      "type": "string",
+      "value": "Mesias"
+    },
+    "first-last-name": {
+      "type": "string",
+      "value": "Marulanda"
+    },
+    "second-last-name": {
+      "type": "string",
+      "value": "Zarate"
+    },
+    "document": {
+      "type": "string",
+      "value": "1053784283"
+    },
+    "id": {
+      "type": "string",
+      "value": "de3dabb3ca01458a8979"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "sports-modalities": {
+      "type": "object",
+      "value": {
+        "soccer": {
+          "type": "object",
+          "value": {}
+        }
+      }
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

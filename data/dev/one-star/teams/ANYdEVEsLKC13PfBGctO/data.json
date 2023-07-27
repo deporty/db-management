@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "ANYdEVEsLKC13PfBGctO"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/ANYdEVEsLKC13PfBGctO/brand/mini-shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/nDRR1mUCr7wfNQhXVWbO"
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "CLUBANTI (Sub 11)"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/ANYdEVEsLKC13PfBGctO/brand/shield.jpeg"
+    }
+  }
+}

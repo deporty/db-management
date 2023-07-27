@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "category": {
+      "type": "string",
+      "value": "Sub 17"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/qxrDBWoLDglUnsl9iTi7"
+        }
+      }
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "CD ATLAS BOGOTÁ F.C (Sub 17)"
+    },
+    "id": {
+      "type": "string",
+      "value": "HmnJeNEhgZ6qz30KZwoq"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/HmnJeNEhgZ6qz30KZwoq/brand/shield.jpeg"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/HmnJeNEhgZ6qz30KZwoq/brand/mini-shield.jpeg"
+    }
+  }
+}

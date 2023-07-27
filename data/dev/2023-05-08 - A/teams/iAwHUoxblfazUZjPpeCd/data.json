@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "id": {
+      "type": "string",
+      "value": "iAwHUoxblfazUZjPpeCd"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/iAwHUoxblfazUZjPpeCd/brand/mini-shield.jpeg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/LA3LwuEpVPwUTTxlkmIe"
+        }
+      }
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "value": "Asofutbol",
+      "type": "string"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/iAwHUoxblfazUZjPpeCd/brand/shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "LA3LwuEpVPwUTTxlkmIe"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

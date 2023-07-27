@@ -1,0 +1,47 @@
+{
+  "type": "object",
+  "value": {
+    "team-a": {
+      "type": "reference",
+      "value": "teams/6gnceptJOQOV0jrIEx3f"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-04T21:00:00.000Z"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 0
+        },
+        "team-b": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/jQedYGA3sMI5Aqgd2HOL"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/kBystvg9Ni60jF799QgK"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    }
+  }
+}

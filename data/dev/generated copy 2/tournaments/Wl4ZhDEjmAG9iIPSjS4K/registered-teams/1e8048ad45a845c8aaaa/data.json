@@ -1,0 +1,256 @@
+{
+  "type": "object",
+  "value": {
+    "members": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 20
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/oFVe66H9ADEmc1LbhF3B"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/ynjOORbfQaI1xJqT1k3U"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 9
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/ZFH4Iy3qaj5Kthhw4GJJ"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 19
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/nvddfYlXzx0XytG1ATY6"
+            },
+            "number": {
+              "type": "number",
+              "value": 13
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/JOUT8bJW4UDHTbG0t4Im"
+            },
+            "number": {
+              "type": "number",
+              "value": 6
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 43
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/jZzd5KDy9iIcgfNG84Tr"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/IW0eOQSIHlcL8nFdd2m0"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 16
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 18
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/qmkZOifcqct79oGhbn6y"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/bMewGFLcwLxc3HfJAGOQ"
+            },
+            "number": {
+              "type": "number",
+              "value": 10
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 23
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/39BqpUnBWv7MaetTASUH"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "number": {
+              "type": "number",
+              "value": 21
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/4lBq2j16KfVoOUIf28ZO"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "player": {
+              "type": "reference",
+              "value": "users/wlKToAiOrLTcGjehpE4X"
+            },
+            "number": {
+              "type": "number",
+              "value": 99
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "role": {
+              "type": "string",
+              "value": ""
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/pfoMl728doaK8r6iMgBk"
+            },
+            "number": {
+              "type": "number",
+              "value": 70
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 11
+            },
+            "player": {
+              "type": "reference",
+              "value": "users/5ZpXDwjFjoON5tOpYpzy"
+            },
+            "role": {
+              "type": "string",
+              "value": ""
+            }
+          }
+        }
+      ]
+    },
+    "enrollment-date": {
+      "type": "date",
+      "value": "2022-12-06T00:52:32.005Z"
+    },
+    "team": {
+      "type": "reference",
+      "value": "teams/Mu0SfxVdwhro4lAymYUR"
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "type": "object",
+  "value": {
+    "date": {
+      "type": "date",
+      "value": "2022-12-04T15:00:00.000Z"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/2666d07e0efc44f19f0c/judgeSignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 3
+        },
+        "team-b": {
+          "type": "number",
+          "value": 0
+        }
+      }
+    },
+    "observations": {
+      "type": "string",
+      "value": "El partido termina al minuto 80 por faltas de garantía\nExpulsado el Señor DT Oscar Upegui al minuto 72 por actuar de modo ofensivo en contra del arbitro (\"Gestos groseros, incluyendo patadas a la maya del terreno de juego, después de ser expulsado utiliza el lenguaje ofensivo y grosero en contra del arbitro (malito, hiujueputa de la mierda). Encontrándose fuera del terreno desaprueba las decisiones arbitrales y sigue utilizando el lenguaje ofensivo y grosero en contra del arbitro, se detienen el juego por dicha situación, para advertir a la mesa de organización y al equipo once caldas de que si el señor seguía con ese comportamiento agresivo, afectando al buen desarrollo del juego el partido se tendría que suspender (se agotan todos los recursos para no suspender el juego). Pero el señor DT no acata la indicación afectando el comportamiento de sus jugadores, del equipo adversario y al buen desarrollo del juego por dicho motivo el juego se suspende por falta de garantías al minuto 80'"
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/2666d07e0efc44f19f0c/captainBSignature.jpg"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/fixture-stages/QL9e7rfVuyplo90LxUHC/groups/97851ec58bcb45e08c4d/matches/2666d07e0efc44f19f0c/captainASignature.jpg"
+    },
+    "group-id": {
+      "type": "string",
+      "value": "97851ec58bcb45e08c4d"
+    },
+    "location-id": {
+      "type": "string",
+      "value": "IE4qNsCVvLcDmAb6dRc3"
+    },
+    "team-a-id": {
+      "type": "string",
+      "value": "542eLN3ilWAObsDeTnqB"
+    },
+    "team-b-id": {
+      "type": "string",
+      "value": "px2SwG2wbAogs3sKewFV"
+    },
+    "player-form": {
+      "value": {
+        "team-a": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "string",
+              "value": "Ea83biS9M4nRpUt4JP5W"
+            },
+            {
+              "type": "string",
+              "value": "iJLpu98JyZniMpYKaa19"
+            },
+            {
+              "type": "string",
+              "value": "JqVyp430Or0zrnjXBSju"
+            },
+            {
+              "type": "string",
+              "value": "h2ghnZsGlhfx3wAVRHfT"
+            },
+            {
+              "type": "string",
+              "value": "oT4GzKnX0tmoEWd9D5E5"
+            },
+            {
+              "type": "string",
+              "value": "ncYjuwZEM1XPkSHBLuyy"
+            },
+            {
+              "type": "string",
+              "value": "KpcsOfbavXnUu9WDYLAO"
+            },
+            {
+              "type": "string",
+              "value": "AL40NREZkCysYdjIt6SC"
+            },
+            {
+              "type": "string",
+              "value": "vmRPSpD3x94LK7432zT2"
+            },
+            {
+              "type": "string",
+              "value": "016XbFd1emTPoxHSR3vz"
+            },
+            {
+              "type": "string",
+              "value": "nMEAXxSwkCatAPJyYSg7"
+            },
+            {
+              "type": "string",
+              "value": "1fPOKryzlytk1kpwciyD"
+            },
+            {
+              "type": "string",
+              "value": "LlLj3UbgiWNicQPnH5AG"
+            },
+            {
+              "type": "string",
+              "value": "1i54nhVSYPQr0CwfoYet"
+            },
+            {
+              "type": "string",
+              "value": "STMrXlh312CPltJnrdwl"
+            },
+            {
+              "type": "string",
+              "value": "VyOWYVRk31xePaK7RUS5"
+            },
+            {
+              "type": "string",
+              "value": "5hkfrEA82M4yBh4NrO0O"
+            },
+            {
+              "type": "string",
+              "value": "ru3hVRAbjVMKrzZAxg36"
+            },
+            {
+              "type": "string",
+              "value": "6N36KAEWskVKjNJyigWm"
+            },
+            {
+              "type": "string",
+              "value": "hTTACXqgkG1GP6KH0UjU"
+            }
+          ]
+        },
+        "team-b": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "string",
+              "value": "hApEG5TvP70lI7fBixsz"
+            },
+            {
+              "type": "string",
+              "value": "WvkhW8r5OfKBdT3ZmSvX"
+            },
+            {
+              "type": "string",
+              "value": "yQDhrwC2Q4qFiOjpHeLb"
+            },
+            {
+              "type": "string",
+              "value": "1pl1p16SQMm6Mz2PjHv7"
+            },
+            {
+              "type": "string",
+              "value": "0cpOne6jZ7vq2sLzOLJU"
+            },
+            {
+              "type": "string",
+              "value": "pYgsTAjKkmvUWK64CwZS"
+            },
+            {
+              "type": "string",
+              "value": "Cx2BmU3cndMJaolC3LFb"
+            },
+            {
+              "type": "string",
+              "value": "0CjktjrvL8y1jQzCPtV8"
+            },
+            {
+              "type": "string",
+              "value": "iB3Pn1NRjwK8PbxB76z0"
+            },
+            {
+              "type": "string",
+              "value": "Ek9aPFuvqXDHeyTRj5EN"
+            },
+            {
+              "type": "string",
+              "value": "r0QMd3aomG0pCYvRJrzt"
+            },
+            {
+              "type": "string",
+              "value": "59V9ufzqCwgFvUlijLFH"
+            },
+            {
+              "type": "string",
+              "value": "4wwX9f9KzW6aociXBnhn"
+            },
+            {
+              "type": "string",
+              "value": "4x9nefLBShk95Brv4Iqt"
+            },
+            {
+              "type": "string",
+              "value": "XMIUyu96M3l6uj8z0QKF"
+            },
+            {
+              "type": "string",
+              "value": "MRgqsQLRcDlmYbrl1LYx"
+            },
+            {
+              "type": "string",
+              "value": "Z7HOMsPtt5q3zryRC8x2"
+            },
+            {
+              "type": "string",
+              "value": "ndIuu1UIjhsC4wO4QXbu"
+            },
+            {
+              "type": "string",
+              "value": "TyTA7qtTt1LPXutpWwf0"
+            },
+            {
+              "type": "string",
+              "value": "HpFZHM1EkoxjoEOnmbmb"
+            }
+          ]
+        }
+      },
+      "type": "object"
+    },
+    "stadistics": {
+      "value": {
+        "team-b": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "object",
+              "value": {
+                "goals": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-yellow-cards": {
+                  "type": "object",
+                  "value": {}
+                },
+                "total-goals": {
+                  "type": "number",
+                  "value": 0
+                },
+                "red-cards": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-red-cards": {
+                  "type": "number",
+                  "value": 0
+                },
+                "yellow-cards": {
+                  "type": "Array",
+                  "value": []
+                },
+                "user-id": {
+                  "type": "string",
+                  "value": "Ek9aPFuvqXDHeyTRj5EN"
+                }
+              }
+            },
+            {
+              "type": "object",
+              "value": {
+                "yellow-cards": {
+                  "type": "Array",
+                  "value": []
+                },
+                "goals": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-red-cards": {
+                  "type": "number",
+                  "value": 1
+                },
+                "red-cards": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-goals": {
+                  "type": "number",
+                  "value": 0
+                },
+                "total-yellow-cards": {
+                  "type": "number",
+                  "value": 0
+                },
+                "user-id": {
+                  "type": "string",
+                  "value": "r0QMd3aomG0pCYvRJrzt"
+                }
+              }
+            }
+          ]
+        },
+        "team-a": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "object",
+              "value": {
+                "yellow-cards": {
+                  "type": "Array",
+                  "value": []
+                },
+                "goals": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-goals": {
+                  "type": "number",
+                  "value": 0
+                },
+                "red-cards": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-yellow-cards": {
+                  "type": "number",
+                  "value": 1
+                },
+                "total-red-cards": {
+                  "type": "number",
+                  "value": 0
+                },
+                "user-id": {
+                  "type": "string",
+                  "value": "ztpumkjlbYg1mfawuPlY"
+                }
+              }
+            },
+            {
+              "type": "object",
+              "value": {
+                "red-cards": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-red-cards": {
+                  "type": "number",
+                  "value": 0
+                },
+                "goals": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-goals": {
+                  "type": "number",
+                  "value": 0
+                },
+                "yellow-cards": {
+                  "type": "Array",
+                  "value": []
+                },
+                "total-yellow-cards": {
+                  "type": "number",
+                  "value": 1
+                },
+                "user-id": {
+                  "type": "string",
+                  "value": "KpcsOfbavXnUu9WDYLAO"
+                }
+              }
+            }
+          ]
+        },
+        "extra-goals-team-b": {
+          "type": "object",
+          "value": {
+            "description": {
+              "type": "string",
+              "value": ""
+            },
+            "goals": {
+              "type": "number",
+              "value": 0
+            }
+          }
+        },
+        "extra-goals-team-a": {
+          "type": "object",
+          "value": {
+            "description": {
+              "type": "string",
+              "value": "Revisar el informe arbitral"
+            },
+            "goals": {
+              "type": "number",
+              "value": 3
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

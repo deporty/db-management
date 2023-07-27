@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "ANYdEVEsLKC13PfBGctO"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/ANYdEVEsLKC13PfBGctO/brand/mini-shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/nDRR1mUCr7wfNQhXVWbO"
+        }
+      }
+    },
+    "name": {
+      "value": "Clubanti",
+      "type": "string"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/ANYdEVEsLKC13PfBGctO/brand/shield.jpeg"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "nDRR1mUCr7wfNQhXVWbO"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

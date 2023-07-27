@@ -1,0 +1,406 @@
+{
+  "type": "object",
+  "value": {
+    "organization": {
+      "type": "reference",
+      "value": "organizations/Wsib20rGNlTR2UsU42eY"
+    },
+    "name": {
+      "type": "string",
+      "value": "Copa Ciudad Manizales V2 Sub 15 Oro"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "reward": {
+      "type": "Array",
+      "value": []
+    },
+    "financial-statements": {
+      "type": "object",
+      "value": {
+        "num-of-invoices": {
+          "type": "number",
+          "value": 1
+        },
+        "invoices": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "object",
+              "value": {
+                "date": {
+                  "type": "date",
+                  "value": "2022-12-02T05:00:00.000Z"
+                },
+                "amount": {
+                  "type": "number",
+                  "value": 256000
+                },
+                "status": {
+                  "type": "string",
+                  "value": "pending"
+                },
+                "description": {
+                  "type": "string",
+                  "value": "Cuenta de cobro No. 1 de 1"
+                },
+                "subject": {
+                  "type": "string",
+                  "value": "Cuenta de cobro No. 1"
+                },
+                "maxPaymentDate": {
+                  "type": "date",
+                  "value": "2023-01-01T05:00:00.000Z"
+                }
+              }
+            }
+          ]
+        },
+        "status": {
+          "type": "string",
+          "value": "pending"
+        },
+        "amount": {
+          "type": "number",
+          "value": 256000
+        }
+      }
+    },
+    "description": {
+      "type": "string",
+      "value": ""
+    },
+    "inscription": {
+      "type": "number",
+      "value": 0
+    },
+    "status": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "v6YwuGIVlndXp9GzLT8d"
+    },
+    "registered-teams": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/wznktlaLSMHtJ3NN2LbR"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:04:18.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/sLQV97LWxZkVjjX1TwZX"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:06:02.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:07:55.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/ZzJnqR0jbPZW4FFciQxK"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:09:32.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/i6lrKsXBhcNGdtsevKJj"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/4LfkNU3rGzlCHGLcn1D4"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:11:45.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:13:53.000Z"
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/aT83kzfkTA1V81EyXNgk"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/QB5unHdmuczefi0Up2Iv"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:14:50.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:17:43.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/0BP9FbYGqVqZKQ9K1378"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:19:20.000Z"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/UBpwjGLMa1W1St0PXQjO"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/UaQUHNgGl57scMORPUJe"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:25:49.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/0cYjNe9AIFbdn7S98I97"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-23T21:41:42.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/6gnceptJOQOV0jrIEx3f"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T05:27:47.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/nDUHi2cWpY0H1CNRAyIA"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T05:33:21.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "team": {
+              "type": "reference",
+              "value": "teams/jQedYGA3sMI5Aqgd2HOL"
+            },
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T05:37:11.000Z"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T05:44:59.000Z"
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/1VeHanuwiZwNTO7DBMEy"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "members": {
+              "type": "Array",
+              "value": []
+            },
+            "team": {
+              "type": "reference",
+              "value": "teams/0yeEi3NTx9scReFPrm1X"
+            },
+            "enrollment-date": {
+              "type": "date",
+              "value": "2022-11-25T22:29:56.000Z"
+            }
+          }
+        }
+      ]
+    },
+    "starts-date": {
+      "type": "date",
+      "value": "2022-12-02T05:00:00.000Z"
+    },
+    "locations": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "locations/Fl8q6kAyHiAxPEfCnp0c"
+        },
+        {
+          "type": "reference",
+          "value": "locations/IE4qNsCVvLcDmAb6dRc3"
+        },
+        {
+          "type": "reference",
+          "value": "locations/P8sds0iDJaem6eVMJocY"
+        },
+        {
+          "type": "reference",
+          "value": "locations/XmPL0Gaia6p4a6mxOJ1X"
+        },
+        {
+          "type": "reference",
+          "value": "locations/bhq0R8ThmxrN5jf5hhcV"
+        },
+        {
+          "type": "reference",
+          "value": "locations/gpFqyEIQdovjkop76ZfJ"
+        },
+        {
+          "type": "reference",
+          "value": "locations/kBystvg9Ni60jF799QgK"
+        }
+      ]
+    },
+    "flayer": {
+      "type": "string",
+      "value": "tournaments/v6YwuGIVlndXp9GzLT8d/preview.jpg"
+    }
+  }
+}

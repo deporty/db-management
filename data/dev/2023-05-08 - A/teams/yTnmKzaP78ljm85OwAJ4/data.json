@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/yTnmKzaP78ljm85OwAJ4/brand/mini-shield.jpeg"
+    },
+    "name": {
+      "value": "C.D. Rozo B",
+      "type": "string"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/DjxSbiVQ59RhM8K5YGz9"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/yTnmKzaP78ljm85OwAJ4/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "yTnmKzaP78ljm85OwAJ4"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 9"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "DjxSbiVQ59RhM8K5YGz9"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

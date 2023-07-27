@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Deporty"
+    },
+    "members": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "users/q4rKjc4cTLrVA9nNKUEY"
+        }
+      ]
+    },
+    "NTP": {
+      "type": "number",
+      "value": 0
+    },
+    "FMTA": {
+      "type": "number",
+      "value": 0
+    }
+  }
+}

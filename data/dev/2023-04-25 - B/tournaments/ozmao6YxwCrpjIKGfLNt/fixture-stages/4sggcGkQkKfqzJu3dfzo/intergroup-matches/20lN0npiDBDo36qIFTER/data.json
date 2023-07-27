@@ -1,0 +1,153 @@
+{
+  "type": "object",
+  "value": {
+    "match": {
+      "type": "object",
+      "value": {
+        "judge-signature": {
+          "type": "string",
+          "value": "tournaments/ozmao6YxwCrpjIKGfLNt/stages/4sggcGkQkKfqzJu3dfzo/intergroups/matches/kOuZJh2tJS4K2J8ZVL4z-LNVHa3tTFiMeKAkg1oiD/judgeSignature.jpg"
+        },
+        "captain-b-signature": {
+          "type": "string",
+          "value": "tournaments/ozmao6YxwCrpjIKGfLNt/stages/4sggcGkQkKfqzJu3dfzo/intergroups/matches/kOuZJh2tJS4K2J8ZVL4z-LNVHa3tTFiMeKAkg1oiD/captainBSignature.jpg"
+        },
+        "playground": {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        },
+        "score": {
+          "type": "object",
+          "value": {
+            "team-a": {
+              "type": "number",
+              "value": 0
+            },
+            "team-b": {
+              "type": "number",
+              "value": 3
+            }
+          }
+        },
+        "observations": {
+          "type": "string",
+          "value": "Pasados 15 minutos de la hora oficial del partido el equipo LOS CRACKS MANIZALES no se presentó en el campo de juego. "
+        },
+        "date": {
+          "type": "date",
+          "value": "2022-12-04T14:30:00.000Z"
+        },
+        "player-form": {
+          "type": "object",
+          "value": {
+            "team-a": {
+              "type": "Array",
+              "value": []
+            },
+            "team-b": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "string",
+                  "value": "zoIkPoTUOkIjKyHWoLrY"
+                },
+                {
+                  "type": "string",
+                  "value": "NDuPigrO9WPNL9qpD2S9"
+                },
+                {
+                  "type": "string",
+                  "value": "9rnqsFZ35LRgwORVhbUq"
+                },
+                {
+                  "type": "string",
+                  "value": "cxe2Qq6mBvP2DFZiC5za"
+                },
+                {
+                  "type": "string",
+                  "value": "25hc3xIzSVWnIe047AA0"
+                },
+                {
+                  "type": "string",
+                  "value": "8DtgQ1HAAfaA0lPMP3W6"
+                },
+                {
+                  "type": "string",
+                  "value": "WtbIBzRidh5pu6ckoivi"
+                },
+                {
+                  "type": "string",
+                  "value": "wXG1dtnwCRv0ubYqZ03K"
+                }
+              ]
+            }
+          }
+        },
+        "stadistics": {
+          "type": "object",
+          "value": {
+            "extra-goals-team-a": {
+              "type": "object",
+              "value": {
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                },
+                "description": {
+                  "type": "string",
+                  "value": ""
+                }
+              }
+            },
+            "team-a": {
+              "type": "Array",
+              "value": []
+            },
+            "extra-goals-team-b": {
+              "type": "object",
+              "value": {
+                "description": {
+                  "type": "string",
+                  "value": "Ganan por W "
+                },
+                "goals": {
+                  "type": "number",
+                  "value": 3
+                }
+              }
+            },
+            "team-b": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        "completed": {
+          "type": "boolean",
+          "value": true
+        },
+        "location-id": {
+          "type": "string",
+          "value": "P8sds0iDJaem6eVMJocY"
+        },
+        "team-a-id": {
+          "type": "string",
+          "value": "kOuZJh2tJS4K2J8ZVL4z"
+        },
+        "team-b-id": {
+          "type": "string",
+          "value": "LNVHa3tTFiMeKAkg1oiD"
+        }
+      }
+    },
+    "fixture-stage-id": {
+      "type": "string",
+      "value": "4sggcGkQkKfqzJu3dfzo"
+    }
+  }
+}

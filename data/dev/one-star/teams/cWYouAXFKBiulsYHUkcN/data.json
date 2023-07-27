@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "cWYouAXFKBiulsYHUkcN"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/cWYouAXFKBiulsYHUkcN/brand/shield.jpeg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/EplBZhwrPqudruqbZgaA"
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "FORTALEZA (Sub 11)"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/cWYouAXFKBiulsYHUkcN/brand/mini-shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

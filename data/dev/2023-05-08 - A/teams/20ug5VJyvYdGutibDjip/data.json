@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "value": "Dinamic Training",
+      "type": "string"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/20ug5VJyvYdGutibDjip/brand/mini-shield.jpeg"
+    },
+    "id": {
+      "type": "string",
+      "value": "20ug5VJyvYdGutibDjip"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/20ug5VJyvYdGutibDjip/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/lYydZRpHKsX9RI1bUqE1"
+        }
+      }
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "lYydZRpHKsX9RI1bUqE1"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

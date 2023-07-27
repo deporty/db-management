@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "value": {
+    "email": {
+      "type": "string",
+      "value": "maravargasrom@unal.edu.co"
+    },
+    "name": {
+      "type": "string",
+      "value": "Marcela"
+    },
+    "uid": {
+      "type": "string",
+      "value": "uFsSKplhGAWml1MC4Sc9GVNWpO62"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/1iVqps08mWRxaZvFr7rn"
+        }
+      ]
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Vargas"
+    }
+  }
+}

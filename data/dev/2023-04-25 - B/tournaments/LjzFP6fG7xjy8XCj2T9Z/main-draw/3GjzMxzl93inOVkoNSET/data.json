@@ -1,0 +1,354 @@
+{
+  "type": "object",
+  "value": {
+    "level": {
+      "type": "number",
+      "value": 2
+    },
+    "match": {
+      "type": "object",
+      "value": {
+        "date": {
+          "type": "date",
+          "value": "2022-12-06T16:00:00.000Z"
+        },
+        "player-form": {
+          "type": "object",
+          "value": {
+            "team-a": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "string",
+                  "value": "HpFZHM1EkoxjoEOnmbmb"
+                },
+                {
+                  "type": "string",
+                  "value": "pYgsTAjKkmvUWK64CwZS"
+                },
+                {
+                  "type": "string",
+                  "value": "Cx2BmU3cndMJaolC3LFb"
+                },
+                {
+                  "type": "string",
+                  "value": "4wwX9f9KzW6aociXBnhn"
+                },
+                {
+                  "type": "string",
+                  "value": "XMIUyu96M3l6uj8z0QKF"
+                },
+                {
+                  "type": "string",
+                  "value": "r0QMd3aomG0pCYvRJrzt"
+                },
+                {
+                  "type": "string",
+                  "value": "WvkhW8r5OfKBdT3ZmSvX"
+                },
+                {
+                  "type": "string",
+                  "value": "Ek9aPFuvqXDHeyTRj5EN"
+                },
+                {
+                  "type": "string",
+                  "value": "MRgqsQLRcDlmYbrl1LYx"
+                },
+                {
+                  "type": "string",
+                  "value": "ndIuu1UIjhsC4wO4QXbu"
+                },
+                {
+                  "type": "string",
+                  "value": "6JwkV28k2OJOmHBxfOG6"
+                },
+                {
+                  "type": "string",
+                  "value": "4x9nefLBShk95Brv4Iqt"
+                },
+                {
+                  "type": "string",
+                  "value": "iB3Pn1NRjwK8PbxB76z0"
+                },
+                {
+                  "type": "string",
+                  "value": "akEin7EBdY5Q10AYillj"
+                },
+                {
+                  "type": "string",
+                  "value": "yQDhrwC2Q4qFiOjpHeLb"
+                },
+                {
+                  "type": "string",
+                  "value": "59V9ufzqCwgFvUlijLFH"
+                },
+                {
+                  "type": "string",
+                  "value": "1pl1p16SQMm6Mz2PjHv7"
+                },
+                {
+                  "type": "string",
+                  "value": "0cpOne6jZ7vq2sLzOLJU"
+                }
+              ]
+            },
+            "team-b": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "string",
+                  "value": "nCoFN6NFvygpDl6Twiax"
+                },
+                {
+                  "type": "string",
+                  "value": "hMIMo97Q95zS6yCnPpdk"
+                },
+                {
+                  "type": "string",
+                  "value": "5mQWNC89v0k5JF0zosmY"
+                },
+                {
+                  "type": "string",
+                  "value": "LcO4ogzw5Xjkm6FcVjiv"
+                },
+                {
+                  "type": "string",
+                  "value": "bBwESWgcIjKcZZIdcmF9"
+                },
+                {
+                  "type": "string",
+                  "value": "vlJNOpVFSFJ5V6kMCgCI"
+                },
+                {
+                  "type": "string",
+                  "value": "XD9alZsHTvBlmBRbQlue"
+                },
+                {
+                  "type": "string",
+                  "value": "mjn2ADdUKMM2uERKQaRo"
+                },
+                {
+                  "type": "string",
+                  "value": "IRS9tvGLe1fWP0KKOCCB"
+                },
+                {
+                  "type": "string",
+                  "value": "ZM1cJFFhHGStC8GM9bXY"
+                },
+                {
+                  "type": "string",
+                  "value": "dyFgqOSPbEZ0SY3fUumG"
+                },
+                {
+                  "type": "string",
+                  "value": "XJaabDdRYZWEJHRExPcc"
+                }
+              ]
+            }
+          }
+        },
+        "completed": {
+          "type": "boolean",
+          "value": true
+        },
+        "stadistics": {
+          "type": "object",
+          "value": {
+            "extra-goals-team-b": {
+              "type": "object",
+              "value": {
+                "description": {
+                  "type": "string",
+                  "value": ""
+                },
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                }
+              }
+            },
+            "team-b": {
+              "type": "Array",
+              "value": []
+            },
+            "extra-goals-team-a": {
+              "type": "object",
+              "value": {
+                "description": {
+                  "type": "string",
+                  "value": ""
+                },
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                }
+              }
+            },
+            "team-a": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "object",
+                  "value": {
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "user-id": {
+                      "type": "string",
+                      "value": "1pl1p16SQMm6Mz2PjHv7"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "total-goals": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "user-id": {
+                      "type": "string",
+                      "value": "r0QMd3aomG0pCYvRJrzt"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "value": {
+                    "goals": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-goals": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "yellow-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-yellow-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "red-cards": {
+                      "type": "Array",
+                      "value": []
+                    },
+                    "total-red-cards": {
+                      "type": "number",
+                      "value": 0
+                    },
+                    "user-id": {
+                      "type": "string",
+                      "value": "HpFZHM1EkoxjoEOnmbmb"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "playground": {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        },
+        "judge-signature": {
+          "type": "string",
+          "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/main-draw/3GjzMxzl93inOVkoNSET/judgeSignature.jpg"
+        },
+        "captain-b-signature": {
+          "type": "string",
+          "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/main-draw/3GjzMxzl93inOVkoNSET/captainBSignature.jpg"
+        },
+        "captain-a-signature": {
+          "type": "string",
+          "value": "tournaments/LjzFP6fG7xjy8XCj2T9Z/main-draw/3GjzMxzl93inOVkoNSET/captainASignature.jpg"
+        },
+        "score": {
+          "type": "object",
+          "value": {
+            "team-b": {
+              "type": "number",
+              "value": 0
+            },
+            "team-a": {
+              "type": "number",
+              "value": 3
+            }
+          }
+        },
+        "location-id": {
+          "type": "string",
+          "value": "gpFqyEIQdovjkop76ZfJ"
+        },
+        "team-a-id": {
+          "type": "string",
+          "value": "px2SwG2wbAogs3sKewFV"
+        },
+        "team-b-id": {
+          "type": "string",
+          "value": "HmnJeNEhgZ6qz30KZwoq"
+        }
+      }
+    },
+    "key": {
+      "type": "number",
+      "value": 2
+    },
+    "id": {
+      "type": "string",
+      "value": "3GjzMxzl93inOVkoNSET"
+    },
+    "tournament-id": {
+      "type": "string",
+      "value": "LjzFP6fG7xjy8XCj2T9Z"
+    }
+  }
+}

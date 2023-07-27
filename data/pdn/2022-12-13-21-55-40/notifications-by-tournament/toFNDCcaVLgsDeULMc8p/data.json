@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "value": {
+    "start-date": {
+      "type": "date",
+      "value": "2022-12-07T22:00:00.000Z"
+    },
+    "end-date": {
+      "type": "date",
+      "value": "2022-12-08T00:30:00.000Z"
+    },
+    "tournament-id": {
+      "type": "string",
+      "value": "LjzFP6fG7xjy8XCj2T9Z"
+    },
+    "message": {
+      "type": "string",
+      "value": "Estamos en proceso de programación de los próximos partidos. <strong>Aún no están los horarios reales.</strong> Evita dar mal información. <br>Consulta más tarde."
+    },
+    "active": {
+      "type": "boolean",
+      "value": true
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "value": {
+    "observations": {
+      "type": "string",
+      "value": "Emmanuel izquierdo metió autogol "
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "location": {
+      "type": "reference",
+      "value": "locations/P8sds0iDJaem6eVMJocY"
+    },
+    "judge-signature": {
+      "type": "string",
+      "value": "tournaments/ozmao6YxwCrpjIKGfLNt/fixture-stages/4sggcGkQkKfqzJu3dfzo/groups/97aa82682b43484d977d/matches/7e69b912af2c479095da/judgeSignature.jpg"
+    },
+    "date": {
+      "type": "date",
+      "value": "2022-12-03T13:00:00.000Z"
+    },
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/sclxlnVg3nDuD1TmUZeS"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/kOuZJh2tJS4K2J8ZVL4z"
+    },
+    "captain-a-signature": {
+      "type": "string",
+      "value": "tournaments/ozmao6YxwCrpjIKGfLNt/fixture-stages/4sggcGkQkKfqzJu3dfzo/groups/97aa82682b43484d977d/matches/7e69b912af2c479095da/captainASignature.jpg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 4
+        },
+        "team-b": {
+          "type": "number",
+          "value": 1
+        }
+      }
+    }
+  }
+}

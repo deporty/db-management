@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "value": {
+    "order": {
+      "type": "number",
+      "value": 3
+    },
+    "label": {
+      "type": "string",
+      "value": "D"
+    },
+    "teams": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "KitMhASIwdQZ05OXgbGO"
+        },
+        {
+          "type": "string",
+          "value": "b0IQSmxnjJMjeXBBXiF0"
+        },
+        {
+          "type": "string",
+          "value": "pKifLvmX5jzkJYG5Mfbu"
+        },
+        {
+          "type": "string",
+          "value": "ELqn1JUsbC1FubfoWn3H"
+        }
+      ]
+    },
+    "fixture-stage-id": {
+      "type": "string",
+      "value": "n5OzWp1KYvo3XOpGPymb"
+    }
+  }
+}

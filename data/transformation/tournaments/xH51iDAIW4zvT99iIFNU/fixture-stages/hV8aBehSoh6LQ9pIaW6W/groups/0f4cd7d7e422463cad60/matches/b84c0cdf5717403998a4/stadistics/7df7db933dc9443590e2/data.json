@@ -1,0 +1,39 @@
+{
+  "value": {
+    "extra-goals-team-b": {
+      "type": "object",
+      "value": {
+        "goals": {
+          "type": "number",
+          "value": 0
+        },
+        "description": {
+          "type": "string",
+          "value": ""
+        }
+      }
+    },
+    "team-b": {
+      "type": "Array",
+      "value": []
+    },
+    "team-a": {
+      "type": "Array",
+      "value": []
+    },
+    "extra-goals-team-a": {
+      "type": "object",
+      "value": {
+        "description": {
+          "type": "string",
+          "value": ""
+        },
+        "goals": {
+          "type": "number",
+          "value": 0
+        }
+      }
+    }
+  },
+  "type": "object"
+}

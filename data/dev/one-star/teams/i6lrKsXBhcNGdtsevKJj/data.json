@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "id": {
+      "type": "string",
+      "value": "i6lrKsXBhcNGdtsevKJj"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/Pp1VFY3bPVM8tGuYEGGh"
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "CLUB DEPORTIVO EL VERGEL - SUB 15 (Sub 15)"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/i6lrKsXBhcNGdtsevKJj/brand/mini-shield.jpeg"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/i6lrKsXBhcNGdtsevKJj/brand/shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

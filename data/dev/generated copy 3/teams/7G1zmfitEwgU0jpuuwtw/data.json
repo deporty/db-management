@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "id": {
+      "type": "string",
+      "value": "7G1zmfitEwgU0jpuuwtw"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/DjxSbiVQ59RhM8K5YGz9"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/7G1zmfitEwgU0jpuuwtw/brand/shield.jpeg"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/7G1zmfitEwgU0jpuuwtw/brand/mini-shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "CD ROZO A (Sub 11)"
+    }
+  }
+}

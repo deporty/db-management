@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/0yeEi3NTx9scReFPrm1X/brand/mini-shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "0yeEi3NTx9scReFPrm1X"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/gX2mVUUTFyJ2efG8ISga"
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "HURACANES MANIZALES (Sub 15)"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/0yeEi3NTx9scReFPrm1X/brand/shield.jpeg"
+    }
+  }
+}

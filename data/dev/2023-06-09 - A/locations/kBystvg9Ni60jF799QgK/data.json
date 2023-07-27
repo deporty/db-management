@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "value": {
+    "playgrounds": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        }
+      ]
+    },
+    "name": {
+      "type": "string",
+      "value": "Universidad de Caldas"
+    },
+    "coordinate": {
+      "type": "object",
+      "value": {
+        "latitude": {
+          "type": "number",
+          "value": 5.057689912396549
+        },
+        "longitude": {
+          "type": "number",
+          "value": -75.49276537353865
+        }
+      }
+    },
+    "address": {
+      "type": "string",
+      "value": "Cra. 25 #626"
+    }
+  }
+}

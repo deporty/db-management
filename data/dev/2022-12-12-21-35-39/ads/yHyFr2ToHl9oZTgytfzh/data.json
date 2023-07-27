@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "sm": {
+          "type": "string",
+          "value": "ads/yHyFr2ToHl9oZTgytfzh/sm.png"
+        },
+        "md": {
+          "type": "string",
+          "value": "ads/yHyFr2ToHl9oZTgytfzh/md.png"
+        },
+        "xxl": {
+          "type": "string",
+          "value": "ads/yHyFr2ToHl9oZTgytfzh/xxl.png"
+        },
+        "xl": {
+          "type": "string",
+          "value": "ads/yHyFr2ToHl9oZTgytfzh/xl.png"
+        },
+        "lg": {
+          "type": "string",
+          "value": "ads/yHyFr2ToHl9oZTgytfzh/lg.png"
+        },
+        "xs": {
+          "type": "string",
+          "value": "ads/yHyFr2ToHl9oZTgytfzh/xs.png"
+        }
+      }
+    },
+    "ad-title": {
+      "type": "string",
+      "value": "Email click"
+    },
+    "default-ad": {
+      "type": "string",
+      "value": "md"
+    }
+  }
+}

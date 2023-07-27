@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "ONCE CALDAS A (Sub 9)"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 9"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/8xgtvVw3p9TilFbavWQX/brand/shield.png"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/8xgtvVw3p9TilFbavWQX/brand/mini-shield.png"
+    },
+    "id": {
+      "type": "string",
+      "value": "8xgtvVw3p9TilFbavWQX"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/Vuj178bt5bIziVkI5nUc"
+        }
+      }
+    }
+  }
+}

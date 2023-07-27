@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "last-name": {
+      "type": "string",
+      "value": "Plazas Rincón"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": "3134475830"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/oldqdWpzjSqL5GV3Yh3I"
+        }
+      ]
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": "entrenamientosgo@gmail.com"
+    },
+    "name": {
+      "type": "string",
+      "value": "Mauricio"
+    },
+    "document": {
+      "type": "string",
+      "value": "undefined"
+    }
+  }
+}

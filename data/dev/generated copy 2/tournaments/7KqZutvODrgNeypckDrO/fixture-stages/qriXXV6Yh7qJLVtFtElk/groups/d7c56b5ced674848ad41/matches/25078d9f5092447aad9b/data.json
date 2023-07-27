@@ -1,0 +1,34 @@
+{
+  "type": "object",
+  "value": {
+    "completed": {
+      "type": "boolean",
+      "value": true
+    },
+    "captain-b-signature": {
+      "type": "string",
+      "value": "tournaments/7KqZutvODrgNeypckDrO/fixture-stages/qriXXV6Yh7qJLVtFtElk/groups/d7c56b5ced674848ad41/matches/25078d9f5092447aad9b/captainBSignature.jpg"
+    },
+    "team-b": {
+      "type": "reference",
+      "value": "teams/LNVHa3tTFiMeKAkg1oiD"
+    },
+    "team-a": {
+      "type": "reference",
+      "value": "teams/kOuZJh2tJS4K2J8ZVL4z"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-a": {
+          "type": "number",
+          "value": 0
+        },
+        "team-b": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    }
+  }
+}

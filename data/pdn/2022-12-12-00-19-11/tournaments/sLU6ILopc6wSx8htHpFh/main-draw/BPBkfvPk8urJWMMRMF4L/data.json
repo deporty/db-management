@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "value": {
+    "level": {
+      "type": "number",
+      "value": 0.5
+    },
+    "match": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "reference",
+          "value": "teams/294zF6AlXaMskvMqWbJ8"
+        },
+        "team-a": {
+          "type": "reference",
+          "value": "teams/XpqKqRsqSaOm2NH1g5aD"
+        }
+      }
+    },
+    "key": {
+      "type": "number",
+      "value": -1
+    }
+  }
+}

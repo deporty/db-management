@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "undefined"
+    },
+    "phone": {
+      "type": "string",
+      "value": "3136953608"
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "type": "string",
+      "value": "Renso"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Aristizabal"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

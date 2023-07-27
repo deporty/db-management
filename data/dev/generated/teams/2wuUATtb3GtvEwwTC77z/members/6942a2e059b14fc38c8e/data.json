@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "value": {
+    "role": {
+      "type": "string",
+      "value": ""
+    },
+    "number": {
+      "type": "number",
+      "value": 7
+    },
+    "player": {
+      "type": "reference",
+      "value": "users/9kkmiA1kOXfR6WTOP6Y3"
+    }
+  }
+}

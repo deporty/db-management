@@ -1,0 +1,19 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase-admin": "^10.3.0",
+    "moment": "^2.29.3",
+    "readdirp": "^3.6.0",
+    "sharp": "^0.31.2",
+    "uuid-js": "^0.7.5",
+    "walk": "^2.3.15"
+  },
+  "author": "",
+  "license": "ISC"
+}

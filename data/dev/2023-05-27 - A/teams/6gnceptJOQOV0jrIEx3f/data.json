@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "value": {
+    "shield": {
+      "type": "string",
+      "value": "teams/6gnceptJOQOV0jrIEx3f/brand/shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "name": {
+      "value": "Prado F.C.",
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "id": {
+      "type": "string",
+      "value": "6gnceptJOQOV0jrIEx3f"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/6gnceptJOQOV0jrIEx3f/brand/mini-shield.jpeg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/fZRrgxgDnh6Ogjkb8tqy"
+        }
+      }
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "fZRrgxgDnh6Ogjkb8tqy"
+            }
+          }
+        }
+      },
+      "type": "object"
+    }
+  }
+}

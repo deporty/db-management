@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1108569486"
+    },
+    "name": {
+      "type": "string",
+      "value": "Samantha"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Preciado Sarria"
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}
