@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Mundialito Copa Campo Verde"
+    },
+    "description": {
+      "type": "string",
+      "value": "Description"
+    },
+    "organization-id": {
+      "type": "string",
+      "value": "nqmjL9WCWo0XQT9DDfFz"
+    },
+    "categories": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "Open"
+        }
+      ]
+    },
+    "flayer": {
+      "type": "string",
+      "value": "organizations/nqmjL9WCWo0XQT9DDfFz/tournament-layouts/jSFW4OHL2sRK3lVNmroc/flayer.jpeg"
+    },
+    "id": {
+      "type": "string",
+      "value": "jSFW4OHL2sRK3lVNmroc"
+    },
+    "editions": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "Única"
+        }
+      ]
+    }
+  }
+}

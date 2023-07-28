@@ -1,6 +1,10 @@
 {
   "type": "object",
   "value": {
+    "name": {
+      "type": "string",
+      "value": "Universidad de Caldas"
+    },
     "playgrounds": {
       "type": "Array",
       "value": [
@@ -15,9 +19,9 @@
         }
       ]
     },
-    "name": {
+    "address": {
       "type": "string",
-      "value": "Universidad de Caldas"
+      "value": "Cra. 25 #626"
     },
     "coordinate": {
       "type": "GeoPoint",
@@ -26,9 +30,17 @@
         "longitude": -75.49276537353865
       }
     },
-    "address": {
+    "geohash32": {
       "type": "string",
-      "value": "Cra. 25 #626"
+      "value": "d2fkf0ez"
+    },
+    "geohash64": {
+      "type": "string",
+      "value": "0s-09-1n-17-00-0v-1w"
+    },
+    "geohash128": {
+      "type": "string",
+      "value": "1h-17-14-3h-0e-3w"
     }
   }
 }

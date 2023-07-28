@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "value": {
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "xl": {
+          "type": "string",
+          "value": "ads/lS2WxPVcqmAu7xI6axKu/xl.png"
+        },
+        "md": {
+          "type": "string",
+          "value": "ads/lS2WxPVcqmAu7xI6axKu/md.png"
+        },
+        "sm": {
+          "type": "string",
+          "value": "ads/lS2WxPVcqmAu7xI6axKu/sm.png"
+        },
+        "lg": {
+          "type": "string",
+          "value": "ads/lS2WxPVcqmAu7xI6axKu/lg.png"
+        },
+        "xs": {
+          "type": "string",
+          "value": "ads/lS2WxPVcqmAu7xI6axKu/xs.png"
+        },
+        "xxl": {
+          "type": "string",
+          "value": "ads/lS2WxPVcqmAu7xI6axKu/xxl.png"
+        }
+      }
+    },
+    "title": {
+      "type": "string",
+      "value": "lead email"
+    },
+    "default-ad": {
+      "type": "string",
+      "value": "md"
+    },
+    "url": {
+      "type": "string",
+      "value": ""
+    },
+    "status": {
+      "type": "string",
+      "value": "inactive"
+    }
+  }
+}

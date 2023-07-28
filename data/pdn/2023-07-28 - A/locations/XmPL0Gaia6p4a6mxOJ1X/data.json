@@ -19,6 +19,10 @@
         }
       ]
     },
+    "address": {
+      "type": "string",
+      "value": "Cra. 17 #6767"
+    },
     "coordinate": {
       "type": "GeoPoint",
       "value": {
@@ -26,9 +30,17 @@
         "longitude": -75.47996813080327
       }
     },
-    "address": {
+    "geohash32": {
       "type": "string",
-      "value": "Cra. 17 #6767"
+      "value": "d2fkf2mn"
+    },
+    "geohash64": {
+      "type": "string",
+      "value": "0s-09-1n-17-02-17-0k"
+    },
+    "geohash128": {
+      "type": "string",
+      "value": "1h-17-14-3h-2m-2k"
     }
   }
 }

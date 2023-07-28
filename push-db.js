@@ -147,8 +147,8 @@ async function main() {
   const storage = admin.storage();
 
   const pathFolder = `${DATA_PATH}/${ENV}/${FILE}`;
-  await y(storage);
-  // await x(db, pathFolder);
+  // await y(storage);
+  await x(db, pathFolder);
 }
 
 main();

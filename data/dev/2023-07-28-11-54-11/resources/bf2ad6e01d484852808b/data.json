@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "value": {
+    "visibility": {
+      "type": "string",
+      "value": "private"
+    },
+    "kind": {
+      "type": "string",
+      "value": "api"
+    },
+    "domain": {
+      "type": "string",
+      "value": "tournaments"
+    },
+    "name": {
+      "type": "string",
+      "value": "GetTournamentsByUniqueAttributesUsecase"
+    },
+    "id": {
+      "type": "string",
+      "value": "bf2ad6e01d484852808b"
+    },
+    "layer": {
+      "type": "string",
+      "value": "infrastructure"
+    }
+  }
+}
