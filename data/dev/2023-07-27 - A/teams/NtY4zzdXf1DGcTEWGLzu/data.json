@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "shield": {
+      "type": "string",
+      "value": "teams/NtY4zzdXf1DGcTEWGLzu/brand/shield.png"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "id": {
+      "type": "string",
+      "value": "NtY4zzdXf1DGcTEWGLzu"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 13"
+    },
+    "name": {
+      "value": "Once Caldas B",
+      "type": "string"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/NtY4zzdXf1DGcTEWGLzu/brand/mini-shield.png"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/EhZpScovwIvgp9M6sXtR"
+        }
+      }
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "EhZpScovwIvgp9M6sXtR"
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "sports-id": {
+      "value": [
+        {
+          "value": "5e4ee735d3cf4735a43d",
+          "type": "string"
+        }
+      ],
+      "type": "Array"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    }
+  }
+}
