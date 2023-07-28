@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1055755757"
+    },
+    "name": {
+      "type": "string",
+      "value": "Salome"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Quiñones Salazar"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    }
+  }
+}

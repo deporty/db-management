@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1054865611"
+    },
+    "name": {
+      "type": "string",
+      "value": "Jeronimo"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Londoño Rios"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    }
+  }
+}

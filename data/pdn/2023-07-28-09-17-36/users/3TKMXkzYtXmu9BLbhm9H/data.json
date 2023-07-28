@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": ""
+    },
+    "document": {
+      "type": "string",
+      "value": "1056125207"
+    },
+    "name": {
+      "type": "string",
+      "value": "daniel esteban "
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": ""
+    },
+    "last-name": {
+      "type": "string",
+      "value": "alzate martinez "
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/OmUGOqmXbey71Uys1Em2"
+        }
+      ]
+    }
+  }
+}

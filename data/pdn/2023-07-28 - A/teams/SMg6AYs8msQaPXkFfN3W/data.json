@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/vitWIvyC1sSSzEVo0awA"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "SMg6AYs8msQaPXkFfN3W"
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/SMg6AYs8msQaPXkFfN3W/brand/shield.jpeg"
+    },
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/SMg6AYs8msQaPXkFfN3W/brand/mini-shield.jpeg"
+    },
+    "name": {
+      "value": "Campeones Manizales",
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "technical-staff": {
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "vitWIvyC1sSSzEVo0awA"
+            }
+          }
+        }
+      },
+      "type": "object"
+    },
+    "sports-id": {
+      "value": [
+        {
+          "value": "9cf8f95aa359486cbbf7",
+          "type": "string"
+        }
+      ],
+      "type": "Array"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    }
+  }
+}

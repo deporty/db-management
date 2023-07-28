@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "value": {
+    "FMTA": {
+      "type": "number",
+      "value": 0
+    },
+    "NTP": {
+      "type": "number",
+      "value": 0
+    },
+    "name": {
+      "type": "string",
+      "value": "Copa Ciudad Manizales "
+    },
+    "members": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "users/yOkbh6xZgSvluTysIHCz"
+        }
+      ]
+    },
+    "iso": {
+      "type": "string",
+      "value": "organizations/brand/iso.jpg"
+    }
+  }
+}

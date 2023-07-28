@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "value": {
+    "title": {
+      "type": "string",
+      "value": "Descuentos Eter"
+    },
+    "default-ad": {
+      "type": "string",
+      "value": "md"
+    },
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "lg": {
+          "type": "string",
+          "value": "ads/AZ07pG6XOBC9GWfhVmMo/lg.png"
+        },
+        "md": {
+          "type": "string",
+          "value": "ads/AZ07pG6XOBC9GWfhVmMo/md.png"
+        },
+        "xl": {
+          "type": "string",
+          "value": "ads/AZ07pG6XOBC9GWfhVmMo/xl.png"
+        },
+        "sm": {
+          "type": "string",
+          "value": "ads/AZ07pG6XOBC9GWfhVmMo/sm.png"
+        },
+        "xs": {
+          "type": "string",
+          "value": "ads/AZ07pG6XOBC9GWfhVmMo/xs.png"
+        }
+      }
+    },
+    "link": {
+      "type": "string",
+      "value": "https://xn--creatumsica-bhb.com/"
+    },
+    "status": {
+      "type": "string",
+      "value": "inactive"
+    }
+  }
+}

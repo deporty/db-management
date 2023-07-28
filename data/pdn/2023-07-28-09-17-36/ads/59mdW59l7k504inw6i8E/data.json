@@ -1,0 +1,58 @@
+{
+  "type": "object",
+  "value": {
+    "default-ad": {
+      "type": "string",
+      "value": "md"
+    },
+    "status": {
+      "type": "string",
+      "value": "active"
+    },
+    "title": {
+      "type": "string",
+      "value": "Dogtor Animal Vet "
+    },
+    "link": {
+      "type": "string",
+      "value": "https://www.instagram.com/dogtoranimalvet/"
+    },
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "lg": {
+          "type": "string",
+          "value": "ads/59mdW59l7k504inw6i8E/lg.jpg"
+        },
+        "md": {
+          "type": "string",
+          "value": "ads/59mdW59l7k504inw6i8E/md.jpg"
+        },
+        "sm": {
+          "type": "string",
+          "value": "ads/59mdW59l7k504inw6i8E/sm.jpg"
+        },
+        "xl": {
+          "type": "string",
+          "value": "ads/59mdW59l7k504inw6i8E/xl.jpg"
+        },
+        "xs": {
+          "type": "string",
+          "value": "ads/59mdW59l7k504inw6i8E/xs.jpg"
+        },
+        "xxl": {
+          "type": "string",
+          "value": "ads/59mdW59l7k504inw6i8E/xxl.jpg"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "59mdW59l7k504inw6i8E"
+    },
+    "counter-clicks": {
+      "type": "number",
+      "value": 22
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": "3167408176"
+    },
+    "name": {
+      "type": "string",
+      "value": "Esteban"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": "manizalesfc@hotmail.com"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Grajales"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

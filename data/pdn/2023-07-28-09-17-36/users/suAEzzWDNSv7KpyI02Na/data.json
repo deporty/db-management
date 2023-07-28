@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "value": {
+    "uid": {
+      "type": "string",
+      "value": "UuWvcvjLp2TLGEjzHztMVB2rq2x2"
+    },
+    "name": {
+      "type": "string",
+      "value": "Jairo"
+    },
+    "role": {
+      "type": "reference",
+      "value": "roles/1iVqps08mWRxaZvFr7rn"
+    },
+    "email": {
+      "type": "string",
+      "value": "jairo.a.quintero@gmail.com"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/1iVqps08mWRxaZvFr7rn"
+        }
+      ]
+    }
+  }
+}

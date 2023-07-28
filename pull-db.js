@@ -32,8 +32,8 @@ async function main() {
 
   const folderName = `${DATA_PATH}/${ENV}/${today}`;
   const start = moment();
-  // await x(db, folderName);
-  await y(storage);
+  await x(db, folderName);
+  // await y(storage);
   const end = moment();
   console.log(end.diff(start, "minutes"));
   console.log(end.diff(start, "seconds"));

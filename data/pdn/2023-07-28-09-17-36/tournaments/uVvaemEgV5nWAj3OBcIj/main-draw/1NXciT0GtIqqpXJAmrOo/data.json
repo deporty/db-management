@@ -1,0 +1,107 @@
+{
+  "type": "object",
+  "value": {
+    "level": {
+      "type": "number",
+      "value": 0.5
+    },
+    "key": {
+      "type": "number",
+      "value": -1
+    },
+    "match": {
+      "type": "object",
+      "value": {
+        "date": {
+          "type": "date",
+          "value": "2022-12-08T17:00:00.000Z"
+        },
+        "score": {
+          "type": "object",
+          "value": {}
+        },
+        "playground": {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        },
+        "location": {
+          "type": "reference",
+          "value": "locations/XmPL0Gaia6p4a6mxOJ1X"
+        },
+        "stadistics": {
+          "type": "object",
+          "value": {
+            "extra-goals-team-a": {
+              "type": "object",
+              "value": {
+                "description": {
+                  "type": "string",
+                  "value": ""
+                },
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                }
+              }
+            },
+            "team-b": {
+              "type": "Array",
+              "value": []
+            },
+            "team-a": {
+              "type": "Array",
+              "value": []
+            },
+            "extra-goals-team-b": {
+              "type": "object",
+              "value": {
+                "description": {
+                  "type": "string",
+                  "value": ""
+                },
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                }
+              }
+            }
+          }
+        },
+        "completed": {
+          "type": "boolean",
+          "value": false
+        },
+        "team-b": {
+          "type": "reference",
+          "value": "teams/b0IQSmxnjJMjeXBBXiF0"
+        },
+        "team-a": {
+          "type": "reference",
+          "value": "teams/KitMhASIwdQZ05OXgbGO"
+        },
+        "player-form": {
+          "type": "object",
+          "value": {
+            "team-b": {
+              "type": "Array",
+              "value": []
+            },
+            "team-a": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "1NXciT0GtIqqpXJAmrOo"
+    }
+  }
+}

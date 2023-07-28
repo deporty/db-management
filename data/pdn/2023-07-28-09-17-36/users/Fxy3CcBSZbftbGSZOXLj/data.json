@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": "3143211426"
+    },
+    "name": {
+      "type": "string",
+      "value": "Albeiro"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": "quinteronestor38@gmail.com"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Marín"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

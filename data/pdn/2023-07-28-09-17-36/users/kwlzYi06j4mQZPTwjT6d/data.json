@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": "3104195196"
+    },
+    "name": {
+      "type": "string",
+      "value": "Alex"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": "jhonalexito@hotmail.com"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Echeverry"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "value": {
+    "title": {
+      "type": "string",
+      "value": ""
+    },
+    "url": {
+      "type": "string",
+      "value": ""
+    },
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "xs": {
+          "type": "string",
+          "value": "ads/wSkmhVAZ7GDekCmCx4he/xs.png"
+        },
+        "sm": {
+          "type": "string",
+          "value": "ads/wSkmhVAZ7GDekCmCx4he/sm.png"
+        },
+        "md": {
+          "type": "string",
+          "value": "ads/wSkmhVAZ7GDekCmCx4he/md.png"
+        },
+        "lg": {
+          "type": "string",
+          "value": "ads/wSkmhVAZ7GDekCmCx4he/lg.png"
+        },
+        "xl": {
+          "type": "string",
+          "value": "ads/wSkmhVAZ7GDekCmCx4he/xl.png"
+        },
+        "xxl": {
+          "type": "string",
+          "value": "ads/wSkmhVAZ7GDekCmCx4he/xxl.png"
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "value": "inactive"
+    }
+  }
+}

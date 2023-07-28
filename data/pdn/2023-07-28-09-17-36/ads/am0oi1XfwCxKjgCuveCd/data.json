@@ -1,0 +1,54 @@
+{
+  "type": "object",
+  "value": {
+    "status": {
+      "type": "string",
+      "value": "active"
+    },
+    "default-ad": {
+      "type": "string",
+      "value": "md"
+    },
+    "link": {
+      "type": "string",
+      "value": "https://www.facebook.com/composicion37"
+    },
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "xs": {
+          "type": "string",
+          "value": "ads/am0oi1XfwCxKjgCuveCd/xs.jpg"
+        },
+        "sm": {
+          "type": "string",
+          "value": "ads/am0oi1XfwCxKjgCuveCd/sm.jpg"
+        },
+        "md": {
+          "type": "string",
+          "value": "ads/am0oi1XfwCxKjgCuveCd/md.jpg"
+        },
+        "lg": {
+          "type": "string",
+          "value": "ads/am0oi1XfwCxKjgCuveCd/lg.jpg"
+        },
+        "xl": {
+          "type": "string",
+          "value": "ads/am0oi1XfwCxKjgCuveCd/xl.jpg"
+        },
+        "xxl": {
+          "type": "string",
+          "value": "ads/am0oi1XfwCxKjgCuveCd/xxl.jpg"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "am0oi1XfwCxKjgCuveCd"
+    },
+    "counter-clicks": {
+      "type": "number",
+      "value": 75
+    }
+  }
+}

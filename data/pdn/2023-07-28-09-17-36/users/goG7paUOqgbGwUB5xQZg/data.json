@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "value": {
+    "image": {
+      "type": "string",
+      "value": ""
+    },
+    "phone": {
+      "type": "string",
+      "value": "3146958513"
+    },
+    "name": {
+      "type": "string",
+      "value": "Diego"
+    },
+    "alias": {
+      "type": "string",
+      "value": ""
+    },
+    "email": {
+      "type": "string",
+      "value": "lacanteramanizales@gmail.com"
+    },
+    "last-name": {
+      "type": "string",
+      "value": "Naranjo"
+    },
+    "roles": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "reference",
+          "value": "roles/h66hpX3eGT7F1BH3BXDG"
+        }
+      ]
+    },
+    "document": {
+      "type": "string",
+      "value": ""
+    }
+  }
+}
