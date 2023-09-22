@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/DjxSbiVQ59RhM8K5YGz9"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/sC1tfJL5C5ZPLmIZQASN/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "type": "object",
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "DjxSbiVQ59RhM8K5YGz9"
+            }
+          }
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "C.D. Rozo B"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "sC1tfJL5C5ZPLmIZQASN"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/sC1tfJL5C5ZPLmIZQASN/brand/mini-shield.jpeg"
+    },
+    "sports-id": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "9cf8f95aa359486cbbf7"
+        }
+      ]
+    }
+  }
+}
