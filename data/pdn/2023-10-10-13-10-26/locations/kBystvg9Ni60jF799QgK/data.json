@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "value": {
+    "coordinate": {
+      "type": "GeoPoint",
+      "value": {
+        "latitude": 5.057689912396549,
+        "longitude": -75.49276537353865
+      }
+    },
+    "address": {
+      "type": "string",
+      "value": "Cra. 25 #626"
+    },
+    "name": {
+      "type": "string",
+      "value": "Universidad de Caldas"
+    },
+    "playgrounds": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        }
+      ]
+    },
+    "geohash128": {
+      "type": "string",
+      "value": "1h-17-14-3h-0e-3w"
+    },
+    "geohash32": {
+      "type": "string",
+      "value": "d2fkf0ez"
+    },
+    "geohash64": {
+      "type": "string",
+      "value": "0s-09-1n-17-00-0v-1w"
+    }
+  }
+}

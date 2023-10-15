@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/0Spu8sR5sQwMkIXHqI3T"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/nmL1ZGxmVsfac0hczkv7/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "type": "object",
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "0Spu8sR5sQwMkIXHqI3T"
+            }
+          }
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "Atlas Cp Femenino"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "nmL1ZGxmVsfac0hczkv7"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/nmL1ZGxmVsfac0hczkv7/brand/mini-shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 9"
+    },
+    "sports-id": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "436853a4685f4c9a8ebb"
+        }
+      ]
+    }
+  }
+}

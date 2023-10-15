@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "value": {
+    "date": {
+      "type": "date",
+      "value": "2022-12-02T05:00:00.000Z"
+    },
+    "amount": {
+      "type": "number",
+      "value": 256000
+    },
+    "tournament-id": {
+      "type": "string",
+      "value": "v6YwuGIVlndXp9GzLT8d"
+    },
+    "subject": {
+      "type": "string",
+      "value": "Cuenta de cobro No. 1"
+    },
+    "max-payment-date": {
+      "type": "date",
+      "value": "2023-01-01T05:00:00.000Z"
+    },
+    "description": {
+      "type": "string",
+      "value": "Cuenta de cobro No. 1 de 1"
+    },
+    "status": {
+      "type": "string",
+      "value": "pending"
+    }
+  }
+}

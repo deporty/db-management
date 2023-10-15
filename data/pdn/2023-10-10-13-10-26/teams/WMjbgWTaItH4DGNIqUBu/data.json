@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/goG7paUOqgbGwUB5xQZg"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/WMjbgWTaItH4DGNIqUBu/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "type": "object",
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "goG7paUOqgbGwUB5xQZg"
+            }
+          }
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "La Cantera"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "WMjbgWTaItH4DGNIqUBu"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 13"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/WMjbgWTaItH4DGNIqUBu/brand/mini-shield.jpeg"
+    },
+    "sports-id": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    }
+  }
+}
