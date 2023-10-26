@@ -102,13 +102,14 @@ async function y(storage) {
   });
 }
 
-async function x(db, relativePatch, isCollection = true) {
+async function x(db, relativePatch, isCollection = true, docs = null) {
   console.log(relativePatch);
-  const files = fs.readdirSync(relativePatch);
+  const files = docs || fs.readdirSync(relativePatch);
   if (!isCollection) {
     for (const doc of files) {
       const docPath = `${relativePatch}/${doc}`;
       const content = JSON.parse(fs.readFileSync(`${docPath}/data.json`));
+      console.log(doc);
       const ref = db.doc(doc);
       const data = await (await ref.get()).data();
       const parseditem = uparseItem(content);
@@ -140,11 +141,11 @@ async function main() {
   console.log(COLLECTION, `.${DOC}.`);
   if (COLLECTION != '') {
     if (DOC) {
-      const t = db.collection(COLLECTION).doc(DOC);
-      await x(t, `${pathFolder}/${COLLECTION}/${DOC}`);
+      const t = db.collection(COLLECTION);
+      await x(t, `${pathFolder}/${COLLECTION}`, false, [DOC]);
     } else {
       const t = db.collection(COLLECTION);
-      await x(t, `${pathFolder}/${COLLECTION}`, false);
+      await x(t, `${pathFolder}/${COLLECTION}`, );
     }
   } else {
     await x(db, pathFolder);

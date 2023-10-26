@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/pFMbwP022oyp53jBtuTl"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/QB5unHdmuczefi0Up2Iv/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "type": "object",
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "pFMbwP022oyp53jBtuTl"
+            }
+          }
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "Quinta Oriental"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "QB5unHdmuczefi0Up2Iv"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 15"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/QB5unHdmuczefi0Up2Iv/brand/mini-shield.jpeg"
+    },
+    "sports-id": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    }
+  }
+}
