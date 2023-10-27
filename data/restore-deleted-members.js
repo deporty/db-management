@@ -6,9 +6,11 @@ const BACKUP_TEAMS = 'dev/2023-10-24-16-07-05/teams';
 
 ///Equipos eliminados por los profesores
 
-/// 0cYjNe9AIFbdn7S98I97 - Holocausto Norte SUB 15
-/// 1uFexPkLtA2EzxTHdrLA - Caterpillar Motor SUB 11 (Andrea) [status - deleted]
-/// iAwHUoxblfazUZjPpeCd - Asofutbol SUB 11 (Gerson Mayo - 3122573482) Elimino y creo Deportes Caldas Futbol Club
+/// 0cYjNe9AIFbdn7S98I97 - Holocausto Norte SUB 15 (reestablecer y cambiar director tecnico)
+
+/// - 1uFexPkLtA2EzxTHdrLA - Caterpillar Motor SUB 11 (Andrea) [recrear con status = deleted]
+
+/// - iAwHUoxblfazUZjPpeCd - Asofutbol SUB 11 (Gerson Mayo - 3122573482) Elimino y creo Deportes Caldas Futbol Club
 const teamExceptions = [
   'DxGxwNaBJ3ntJMiIThpv',
   'FWs6ukrRtWav0UeWgG9E',
@@ -53,6 +55,7 @@ for (const teamId of PDN_TEAM_IDS) {
         console.log('Diferentes ', pdn_members.length - backup_members.length);
       }
     }else{
+      // Se debe reestablecer el equipo y debe ponerse un estado de 
       console.log('No existe', `${PDN_TEAMS}/${teamId}/members`);
     }
   }

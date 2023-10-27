@@ -1,33 +1,21 @@
 {
   "type": "object",
   "value": {
+    "init-date": {
+      "type": "date",
+      "value": "2022-12-01T05:00:00.000Z"
+    },
     "user-id": {
       "type": "string",
       "value": "81aZopj76E0OEfLM1kK9"
     },
+    "position": {
+      "type": "string",
+      "value": ""
+    },
     "team-id": {
       "type": "string",
       "value": "ERbpoEKjh4J43990nacr"
-    },
-    "number": {
-      "type": "number",
-      "value": 4
-    },
-    "init-date": {
-      "type": "object",
-      "value": {}
-    },
-    "id": {
-      "type": "string",
-      "value": "468622b2c07547c1b9d2"
-    },
-    "position": {
-      "type": "string",
-      "value": "defensa"
-    },
-    "kind-member": {
-      "type": "string",
-      "value": "player"
     }
   }
 }
