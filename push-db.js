@@ -103,27 +103,33 @@ async function y(storage) {
 }
 
 async function x(db, relativePatch, isCollection = true, docs = null) {
-  console.log(relativePatch);
-  const files = docs || fs.readdirSync(relativePatch);
   if (!isCollection) {
+    const files = docs || fs.readdirSync(relativePatch);
     for (const doc of files) {
       const docPath = `${relativePatch}/${doc}`;
-      const content = JSON.parse(fs.readFileSync(`${docPath}/data.json`));
-      console.log(doc);
-      const ref = db.doc(doc);
-      const data = await (await ref.get()).data();
-      const parseditem = uparseItem(content);
-      if (data) {
-        ref.update(parseditem);
-      } else {
-        ref.set(parseditem);
-      }
+      console.log();
+      console.log(docPath);
+      const content = JSON.parse(fs.readFileSync(`${docPath}/data.json`, { encoding: 'utf8' }));
+      if (content['type'] != 'undefined') {
+        console.log(content);
+        console.log();
+        const ref = db.doc(doc);
+        const data = await (await ref.get()).data();
+        const parseditem = uparseItem(content);
+        if (data) {
+          ref.update(parseditem);
+        } else {
+          ref.set(parseditem);
+        }
 
-      await x(ref, docPath, !isCollection);
+        await x(ref, docPath, !isCollection);
+      }
     }
   } else {
-    const filteredFolders = files.filter((x) => x != 'data.json');
-    for (const collection of filteredFolders) {
+    const files = fs.readdirSync(relativePatch);
+
+    const subCollections = files.filter((x) => x != 'data.json');
+    for (const collection of subCollections) {
       const ref = db.collection(collection);
       const newPath = `${relativePatch}/${collection}`;
       await x(ref, newPath, !isCollection);
@@ -145,7 +151,7 @@ async function main() {
       await x(t, `${pathFolder}/${COLLECTION}`, false, [DOC]);
     } else {
       const t = db.collection(COLLECTION);
-      await x(t, `${pathFolder}/${COLLECTION}`, );
+      await x(t, `${pathFolder}/${COLLECTION}`, false);
     }
   } else {
     await x(db, pathFolder);
