@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/nDRR1mUCr7wfNQhXVWbO"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/ANYdEVEsLKC13PfBGctO/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "type": "object",
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "nDRR1mUCr7wfNQhXVWbO"
+            }
+          }
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "Clubanti"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "ANYdEVEsLKC13PfBGctO"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/ANYdEVEsLKC13PfBGctO/brand/mini-shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "sports-id": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "9cf8f95aa359486cbbf7"
+        }
+      ]
+    }
+  }
+}

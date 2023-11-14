@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "value": {
+    "release-notes": {
+      "type": "string",
+      "value": "Primera versión"
+    },
+    "status": {
+      "type": "string",
+      "value": "current"
+    },
+    "release-date": {
+      "type": "date",
+      "value": "2023-10-27T05:00:00.178Z"
+    },
+    "semver": {
+      "type": "string",
+      "value": "1.1.0"
+    },
+    "android-version-code": {
+      "type": "number",
+      "value": 13
+    }
+  }
+}

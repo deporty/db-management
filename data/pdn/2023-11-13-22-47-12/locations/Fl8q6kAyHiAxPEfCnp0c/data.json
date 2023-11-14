@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "value": {
+    "coordinate": {
+      "type": "GeoPoint",
+      "value": {
+        "latitude": 5.058446652100415,
+        "longitude": -75.51087207312828
+      }
+    },
+    "address": {
+      "type": "string",
+      "value": "Cl. 47 #37a88"
+    },
+    "name": {
+      "type": "string",
+      "value": "Arrayanes - Fuente"
+    },
+    "playgrounds": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        }
+      ]
+    },
+    "geohash128": {
+      "type": "string",
+      "value": "1h-17-14-2u-0y-1r"
+    },
+    "geohash32": {
+      "type": "string",
+      "value": "d2fkc8ye"
+    },
+    "geohash64": {
+      "type": "string",
+      "value": "0s-09-1n-15-18-1w-1r"
+    }
+  }
+}
