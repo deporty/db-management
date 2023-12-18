@@ -1,0 +1,116 @@
+{
+  "type": "object",
+  "value": {
+    "team-a-group-id": {
+      "type": "string",
+      "value": "0imy0yKGLNeEDIDPH2JL"
+    },
+    "fixture-stage-id": {
+      "type": "string",
+      "value": "eqZLr9CCppkMEeS40SAN"
+    },
+    "team-b-group-id": {
+      "type": "string",
+      "value": "sRtQVaif7hnY0DPGL2oj"
+    },
+    "match": {
+      "type": "object",
+      "value": {
+        "phase": {
+          "type": "number",
+          "value": 2
+        },
+        "date": {
+          "type": "date",
+          "value": "2023-12-17T16:00:00.000Z"
+        },
+        "players-in-match-data": {
+          "type": "object",
+          "value": {
+            "team-b": {
+              "type": "object",
+              "value": {}
+            },
+            "team-a": {
+              "type": "object",
+              "value": {}
+            }
+          }
+        },
+        "location-id": {
+          "type": "string",
+          "value": "IE4qNsCVvLcDmAb6dRc3"
+        },
+        "playground": {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        },
+        "stadistics": {
+          "type": "object",
+          "value": {
+            "extra-goals-team-a": {
+              "type": "object",
+              "value": {
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                }
+              }
+            },
+            "team-b": {
+              "type": "Array",
+              "value": []
+            },
+            "team-a": {
+              "type": "Array",
+              "value": []
+            },
+            "extra-goals-team-b": {
+              "type": "object",
+              "value": {
+                "goals": {
+                  "type": "number",
+                  "value": 0
+                }
+              }
+            }
+          }
+        },
+        "team-a-id": {
+          "type": "string",
+          "value": "G87LKmHlvaoRjBh7SVfq"
+        },
+        "team-b-id": {
+          "type": "string",
+          "value": "B06PAq1lbQgLooNc3bbB"
+        },
+        "player-form": {
+          "type": "object",
+          "value": {
+            "team-b": {
+              "type": "Array",
+              "value": []
+            },
+            "team-a": {
+              "type": "Array",
+              "value": []
+            }
+          }
+        },
+        "status": {
+          "type": "string",
+          "value": "published"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "DXXnpU2zQcsMSWuIsS6V"
+    }
+  }
+}

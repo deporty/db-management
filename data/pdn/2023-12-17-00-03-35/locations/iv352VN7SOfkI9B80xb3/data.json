@@ -1,0 +1,69 @@
+{
+  "type": "object",
+  "value": {
+    "name": {
+      "type": "string",
+      "value": "Centro Deportivo Marchagas"
+    },
+    "playgrounds": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 2"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 3"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 4"
+            }
+          }
+        }
+      ]
+    },
+    "coordinate": {
+      "type": "GeoPoint",
+      "value": {
+        "latitude": 5.041798392147725,
+        "longitude": -75.50375157683166
+      }
+    },
+    "geohash32": {
+      "type": "string",
+      "value": "d2fk9vgf"
+    },
+    "geohash64": {
+      "type": "string",
+      "value": "0s-09-1n-14-1v-0y-1v"
+    },
+    "geohash128": {
+      "type": "string",
+      "value": "1h-17-14-2f-3g-1v"
+    }
+  }
+}

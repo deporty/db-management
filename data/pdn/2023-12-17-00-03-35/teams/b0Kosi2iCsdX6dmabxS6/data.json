@@ -1,0 +1,78 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/b0Kosi2iCsdX6dmabxS6/brand/shield.jpeg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/AqbyK8zjPe5vffSLarc6"
+        }
+      }
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "type": "object",
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "AqbyK8zjPe5vffSLarc6"
+            }
+          }
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "Fortaleza"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "b0Kosi2iCsdX6dmabxS6"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/b0Kosi2iCsdX6dmabxS6/brand/mini-shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 13"
+    },
+    "sports-id": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "status": {
+      "type": "string",
+      "value": "enabled"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "type": "object",
+  "value": {
+    "shield": {
+      "type": "string",
+      "value": "teams/LNVHa3tTFiMeKAkg1oiD/brand/shield.jpeg"
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/DjxSbiVQ59RhM8K5YGz9"
+        }
+      }
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "type": "object",
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "DjxSbiVQ59RhM8K5YGz9"
+            }
+          }
+        }
+      }
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "LNVHa3tTFiMeKAkg1oiD"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/LNVHa3tTFiMeKAkg1oiD/brand/mini-shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 9"
+    },
+    "sports-id": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "436853a4685f4c9a8ebb"
+        }
+      ]
+    },
+    "city": {
+      "type": "string",
+      "value": "Manizales"
+    },
+    "athem": {
+      "type": "object",
+      "value": {}
+    },
+    "status": {
+      "type": "string",
+      "value": "enabled"
+    },
+    "name": {
+      "type": "string",
+      "value": "C.D. ROZO MANIZALES"
+    }
+  }
+}

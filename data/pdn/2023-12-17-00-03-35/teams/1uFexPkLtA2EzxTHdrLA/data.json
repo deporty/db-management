@@ -1,0 +1,78 @@
+{
+  "type": "object",
+  "value": {
+    "athem": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-director": {
+      "type": "object",
+      "value": {
+        "user": {
+          "type": "reference",
+          "value": "users/uhH0M7ycIClD4d30iqvw"
+        }
+      }
+    },
+    "shield": {
+      "type": "string",
+      "value": "teams/1uFexPkLtA2EzxTHdrLA/brand/shield.jpeg"
+    },
+    "agent": {
+      "type": "string",
+      "value": ""
+    },
+    "technical-staff": {
+      "type": "object",
+      "value": {
+        "technical-director": {
+          "type": "object",
+          "value": {
+            "userId": {
+              "type": "string",
+              "value": "uhH0M7ycIClD4d30iqvw"
+            }
+          }
+        }
+      }
+    },
+    "name": {
+      "type": "string",
+      "value": "* Caterpillar Motor"
+    },
+    "sport-ids": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "5e4ee735d3cf4735a43d"
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "1uFexPkLtA2EzxTHdrLA"
+    },
+    "mini-shield": {
+      "type": "string",
+      "value": "teams/1uFexPkLtA2EzxTHdrLA/brand/mini-shield.jpeg"
+    },
+    "category": {
+      "type": "string",
+      "value": "Sub 11"
+    },
+    "sports-id": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "9cf8f95aa359486cbbf7"
+        }
+      ]
+    },
+    "status": {
+      "type": "string",
+      "value": "deleted"
+    }
+  }
+}

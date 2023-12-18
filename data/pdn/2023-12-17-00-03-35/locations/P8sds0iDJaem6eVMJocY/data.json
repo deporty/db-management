@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "value": {
+    "coordinate": {
+      "type": "GeoPoint",
+      "value": {
+        "latitude": 5.042007131541637,
+        "longitude": -75.49914224984579
+      }
+    },
+    "address": {
+      "type": "string",
+      "value": "Cra. 42 #722"
+    },
+    "name": {
+      "type": "string",
+      "value": "Aranjuez"
+    },
+    "playgrounds": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "name": {
+              "type": "string",
+              "value": "Cancha 1"
+            }
+          }
+        }
+      ]
+    },
+    "geohash128": {
+      "type": "string",
+      "value": "1h-17-14-2f-3z-0r"
+    },
+    "geohash32": {
+      "type": "string",
+      "value": "d2fk9vz5"
+    },
+    "geohash64": {
+      "type": "string",
+      "value": "0s-09-1n-14-1v-1y-0r"
+    }
+  }
+}

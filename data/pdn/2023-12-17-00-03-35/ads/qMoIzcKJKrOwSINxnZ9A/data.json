@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "value": {
+    "ad-breakpoint": {
+      "type": "object",
+      "value": {
+        "xl": {
+          "type": "string",
+          "value": "ads/qMoIzcKJKrOwSINxnZ9A/xl.png"
+        },
+        "md": {
+          "type": "string",
+          "value": "ads/qMoIzcKJKrOwSINxnZ9A/md.png"
+        },
+        "sm": {
+          "type": "string",
+          "value": "ads/qMoIzcKJKrOwSINxnZ9A/sm.png"
+        },
+        "xs": {
+          "type": "string",
+          "value": "ads/qMoIzcKJKrOwSINxnZ9A/xs.png"
+        },
+        "lg": {
+          "type": "string",
+          "value": "ads/qMoIzcKJKrOwSINxnZ9A/lg.png"
+        },
+        "xxl": {
+          "type": "string",
+          "value": "ads/qMoIzcKJKrOwSINxnZ9A/xxl.png"
+        }
+      }
+    },
+    "title": {
+      "type": "string",
+      "value": "Clases de Guitarra"
+    },
+    "default-ad": {
+      "type": "string",
+      "value": "md"
+    },
+    "status": {
+      "type": "string",
+      "value": "inactive"
+    }
+  }
+}
