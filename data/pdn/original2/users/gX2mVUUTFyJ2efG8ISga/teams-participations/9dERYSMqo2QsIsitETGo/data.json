@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "value": {
+    "init-date": {
+      "type": "date",
+      "value": "2022-12-01T05:00:00.796Z"
+    },
+    "user-id": {
+      "type": "string",
+      "value": "gX2mVUUTFyJ2efG8ISga"
+    },
+    "team-id": {
+      "type": "string",
+      "value": "C0CKonLcaU1X8LcMslFl"
+    },
+    "kind-member": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "string",
+          "value": "owner"
+        },
+        {
+          "type": "string",
+          "value": "technical-director"
+        }
+      ]
+    }
+  }
+}

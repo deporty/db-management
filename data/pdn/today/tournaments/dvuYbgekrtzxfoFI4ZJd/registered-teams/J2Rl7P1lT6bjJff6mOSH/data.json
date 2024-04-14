@@ -1,0 +1,886 @@
+{
+  "type": "object",
+  "value": {
+    "enrollment-date": {
+      "type": "date",
+      "value": "2023-12-11T00:16:32.413Z"
+    },
+    "tournament-id": {
+      "type": "string",
+      "value": "dvuYbgekrtzxfoFI4ZJd"
+    },
+    "members": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 8
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "P3I1q5WvbtdIdUZ6rqw8"
+            },
+            "position": {
+              "type": "string",
+              "value": "mediocentro"
+            },
+            "id": {
+              "type": "string",
+              "value": "3ToKU7ESsfeVmkOLVTkr"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "object",
+              "value": {}
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "sdTUSUYTIG2VF6EIM6RQ"
+            },
+            "position": {
+              "type": "string",
+              "value": "mediocampista"
+            },
+            "id": {
+              "type": "string",
+              "value": "5IUxim5c2QyVKkesGPQA"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 12
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "e1nIvw5WGA2LXppIJABa"
+            },
+            "position": {
+              "type": "string",
+              "value": "portero"
+            },
+            "id": {
+              "type": "string",
+              "value": "6zlSp8WLiW1OLxg1mtJY"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 10
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "LNAbuiEnFDXl0BbdA21V"
+            },
+            "position": {
+              "type": "string",
+              "value": "Mediocampista"
+            },
+            "id": {
+              "type": "string",
+              "value": "7wWDi8cSxJtkfl9GBrmX"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 6
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "r7GUkirc8BoDN1ij73av"
+            },
+            "position": {
+              "type": "string",
+              "value": "Lateral"
+            },
+            "id": {
+              "type": "string",
+              "value": "B1C81tRpBsDr18GGfWd3"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 17
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "rdR7bPi8CQGFDAypA0cd"
+            },
+            "position": {
+              "type": "string",
+              "value": "Medio campista"
+            },
+            "id": {
+              "type": "string",
+              "value": "JfPGUlspME8NPoXwWuOC"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 47
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "JJo4s2eprJqCpOggpzb7"
+            },
+            "position": {
+              "type": "string",
+              "value": "Extremo"
+            },
+            "id": {
+              "type": "string",
+              "value": "KIhDFt6kZUT3nHh58kQz"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 11
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "QCAdoDumC5agZub3FP3m"
+            },
+            "position": {
+              "type": "string",
+              "value": "Delantero Centro"
+            },
+            "id": {
+              "type": "string",
+              "value": "KXLTyCyTvKpHPn2PAmHu"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 32
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "g93LJFxRscNxlPvOjGju"
+            },
+            "position": {
+              "type": "string",
+              "value": "LATERAL"
+            },
+            "id": {
+              "type": "string",
+              "value": "MuqBkIEvMXSMgkxKm2Vv"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 2
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "4T6GgR5QOWzJUziX2Oy1"
+            },
+            "position": {
+              "type": "string",
+              "value": "Defensa Central"
+            },
+            "id": {
+              "type": "string",
+              "value": "N2OvKO7HCu0a6J5LjVj8"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 18
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "88VSDXnV5LUhc9INwozL"
+            },
+            "position": {
+              "type": "string",
+              "value": "Delantero Centro"
+            },
+            "id": {
+              "type": "string",
+              "value": "TjVZwsJrv0tPhuTrz59t"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 1
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "WY6CLMrCHzJCCIeIefo9"
+            },
+            "position": {
+              "type": "string",
+              "value": "portero"
+            },
+            "id": {
+              "type": "string",
+              "value": "TqSIy2UvQXCpYaSuk2bu"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 9
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "t1VNYStcVZElbTq3fkGi"
+            },
+            "position": {
+              "type": "string",
+              "value": "Extremo"
+            },
+            "id": {
+              "type": "string",
+              "value": "jaksTpKNdDwKDH29jjp9"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 42
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "1SCMCKGa5qf5McSxtOcu"
+            },
+            "position": {
+              "type": "string",
+              "value": "Extremo"
+            },
+            "id": {
+              "type": "string",
+              "value": "olZRKY05j9wGeDeEBBcU"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 14
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "PQjBm7koYO6co9T2mfjj"
+            },
+            "position": {
+              "type": "string",
+              "value": "defensa "
+            },
+            "id": {
+              "type": "string",
+              "value": "tqSFzV4AfTMLJFU9r46F"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 3
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "GnYPuQ7MLE9xtw5Y7wuk"
+            },
+            "position": {
+              "type": "string",
+              "value": "Lateral"
+            },
+            "id": {
+              "type": "string",
+              "value": "zsz0iSJcQ811AfOFpXRa"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "init-date": {
+              "type": "string",
+              "value": "2023-10-19T15:03:52.568Z"
+            },
+            "retirement-date": {
+              "type": "object",
+              "value": {}
+            },
+            "user-id": {
+              "type": "string",
+              "value": "xWhjJ3mUSyyZTu6blIQk"
+            },
+            "position": {
+              "type": "string",
+              "value": ""
+            },
+            "id": {
+              "type": "string",
+              "value": "PXPYOmpQFaRQq7iGUzrF"
+            },
+            "kind-member": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "string",
+                  "value": "owner"
+                },
+                {
+                  "type": "string",
+                  "value": "technical-director"
+                }
+              ]
+            },
+            "team-id": {
+              "type": "string",
+              "value": "oQXmwCqYWZQT3dUxOIRR"
+            }
+          }
+        }
+      ]
+    },
+    "team-id": {
+      "type": "string",
+      "value": "oQXmwCqYWZQT3dUxOIRR"
+    },
+    "status": {
+      "type": "string",
+      "value": "pre-registered and enabled"
+    },
+    "required-docs": {
+      "type": "object",
+      "value": {
+        "members": {
+          "type": "object",
+          "value": {
+            "jaksTpKNdDwKDH29jjp9": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/jaksTpKNdDwKDH29jjp9/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/jaksTpKNdDwKDH29jjp9/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/jaksTpKNdDwKDH29jjp9/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "7wWDi8cSxJtkfl9GBrmX": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/7wWDi8cSxJtkfl9GBrmX/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/7wWDi8cSxJtkfl9GBrmX/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/7wWDi8cSxJtkfl9GBrmX/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "TqSIy2UvQXCpYaSuk2bu": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/TqSIy2UvQXCpYaSuk2bu/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/TqSIy2UvQXCpYaSuk2bu/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/TqSIy2UvQXCpYaSuk2bu/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "JfPGUlspME8NPoXwWuOC": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/JfPGUlspME8NPoXwWuOC/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/JfPGUlspME8NPoXwWuOC/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/JfPGUlspME8NPoXwWuOC/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "tqSFzV4AfTMLJFU9r46F": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/tqSFzV4AfTMLJFU9r46F/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/tqSFzV4AfTMLJFU9r46F/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/tqSFzV4AfTMLJFU9r46F/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "N2OvKO7HCu0a6J5LjVj8": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/N2OvKO7HCu0a6J5LjVj8/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/N2OvKO7HCu0a6J5LjVj8/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/N2OvKO7HCu0a6J5LjVj8/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "MuqBkIEvMXSMgkxKm2Vv": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/MuqBkIEvMXSMgkxKm2Vv/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/MuqBkIEvMXSMgkxKm2Vv/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/MuqBkIEvMXSMgkxKm2Vv/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "KIhDFt6kZUT3nHh58kQz": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/KIhDFt6kZUT3nHh58kQz/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/KIhDFt6kZUT3nHh58kQz/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/KIhDFt6kZUT3nHh58kQz/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "olZRKY05j9wGeDeEBBcU": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/olZRKY05j9wGeDeEBBcU/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/olZRKY05j9wGeDeEBBcU/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/olZRKY05j9wGeDeEBBcU/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "5IUxim5c2QyVKkesGPQA": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/5IUxim5c2QyVKkesGPQA/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/5IUxim5c2QyVKkesGPQA/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/5IUxim5c2QyVKkesGPQA/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "3ToKU7ESsfeVmkOLVTkr": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/3ToKU7ESsfeVmkOLVTkr/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/3ToKU7ESsfeVmkOLVTkr/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/3ToKU7ESsfeVmkOLVTkr/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "B1C81tRpBsDr18GGfWd3": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/B1C81tRpBsDr18GGfWd3/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/B1C81tRpBsDr18GGfWd3/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/B1C81tRpBsDr18GGfWd3/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "6zlSp8WLiW1OLxg1mtJY": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/6zlSp8WLiW1OLxg1mtJY/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/6zlSp8WLiW1OLxg1mtJY/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/6zlSp8WLiW1OLxg1mtJY/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "KXLTyCyTvKpHPn2PAmHu": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/KXLTyCyTvKpHPn2PAmHu/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/KXLTyCyTvKpHPn2PAmHu/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/KXLTyCyTvKpHPn2PAmHu/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "zsz0iSJcQ811AfOFpXRa": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/zsz0iSJcQ811AfOFpXRa/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/zsz0iSJcQ811AfOFpXRa/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/zsz0iSJcQ811AfOFpXRa/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            },
+            "TjVZwsJrv0tPhuTrz59t": {
+              "type": "object",
+              "value": {
+                "X4oMjL4BvRY7jGfVS7tM": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/TjVZwsJrv0tPhuTrz59t/X4oMjL4BvRY7jGfVS7tM.pdf"
+                },
+                "iwe7Ck0FRiOBcWV9G6qd": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/TjVZwsJrv0tPhuTrz59t/iwe7Ck0FRiOBcWV9G6qd.pdf"
+                },
+                "lVIUKEPwJ1LMNgyzISnO": {
+                  "type": "string",
+                  "value": "tournaments/dvuYbgekrtzxfoFI4ZJd/registered-teams/J2Rl7P1lT6bjJff6mOSH/required-docs/members/TjVZwsJrv0tPhuTrz59t/lVIUKEPwJ1LMNgyzISnO.pdf"
+                }
+              }
+            }
+          }
+        },
+        "team": {
+          "type": "object",
+          "value": {}
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "J2Rl7P1lT6bjJff6mOSH"
+    }
+  }
+}

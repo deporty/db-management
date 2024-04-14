@@ -1,0 +1,178 @@
+{
+  "type": "object",
+  "value": {
+    "team-a-id": {
+      "type": "string",
+      "value": "XvW5qB1X63Z2BomkTzwc"
+    },
+    "team-b-id": {
+      "type": "string",
+      "value": "9xhHcHSNVPn8Ze1tzuiL"
+    },
+    "date": {
+      "type": "date",
+      "value": "2023-12-20T13:00:00.000Z"
+    },
+    "phase": {
+      "type": "number",
+      "value": 5
+    },
+    "location-id": {
+      "type": "string",
+      "value": "bhq0R8ThmxrN5jf5hhcV"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "bihRPUjQ4NDTe931fiXP"
+    },
+    "players-in-match-data": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "object",
+          "value": {
+            "D8o7BTKu77ORVvllfDX5": {
+              "type": "object",
+              "value": {}
+            }
+          }
+        },
+        "team-a": {
+          "type": "object",
+          "value": {}
+        }
+      }
+    },
+    "player-form": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "string",
+              "value": "E4oN4ECRpWkjisfIqwlA"
+            },
+            {
+              "type": "string",
+              "value": "RuQcUNOQ5TAaSDyNPEqU"
+            },
+            {
+              "type": "string",
+              "value": "3wy9v6rZXkIKOLeH2dl6"
+            },
+            {
+              "type": "string",
+              "value": "D8o7BTKu77ORVvllfDX5"
+            },
+            {
+              "type": "string",
+              "value": "1CbtxeafkVeK3F7VbhGe"
+            },
+            {
+              "type": "string",
+              "value": "KiQSVmYdvKa5ufydeV40"
+            },
+            {
+              "type": "string",
+              "value": "AAIhvv2ugYQM940lWX8d"
+            },
+            {
+              "type": "string",
+              "value": "wPbbPPfcYOYXVr9pbD8H"
+            },
+            {
+              "type": "string",
+              "value": "UV2vTNbmoHUzOPEjVrrV"
+            },
+            {
+              "type": "string",
+              "value": "itlvSqKChJVn6EhONq82"
+            },
+            {
+              "type": "string",
+              "value": "TpSsebwJ3kFnRAc0LciQ"
+            },
+            {
+              "type": "string",
+              "value": "QY3Nreen4pAaoN43C9ir"
+            },
+            {
+              "type": "string",
+              "value": "SedIxI0cVkO4HHzeqQg8"
+            },
+            {
+              "type": "string",
+              "value": "QCgzt42mZYqkkub4KYD5"
+            }
+          ]
+        },
+        "team-a": {
+          "type": "Array",
+          "value": []
+        }
+      }
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 3
+        },
+        "team-a": {
+          "type": "number",
+          "value": 0
+        }
+      }
+    },
+    "stadistics": {
+      "type": "object",
+      "value": {
+        "extra-goals-team-a": {
+          "type": "object",
+          "value": {
+            "goals": {
+              "type": "number",
+              "value": 0
+            }
+          }
+        },
+        "team-b": {
+          "type": "Array",
+          "value": []
+        },
+        "team-a": {
+          "type": "Array",
+          "value": []
+        },
+        "extra-goals-team-b": {
+          "type": "object",
+          "value": {
+            "description": {
+              "type": "string",
+              "value": "El partido se ganó por W "
+            },
+            "goals": {
+              "type": "number",
+              "value": 3
+            }
+          }
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "value": "completed"
+    }
+  }
+}

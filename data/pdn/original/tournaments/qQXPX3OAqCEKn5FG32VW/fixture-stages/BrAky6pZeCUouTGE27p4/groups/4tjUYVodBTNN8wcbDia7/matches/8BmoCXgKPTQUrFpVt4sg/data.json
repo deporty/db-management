@@ -1,0 +1,181 @@
+{
+  "type": "object",
+  "value": {
+    "team-a-id": {
+      "type": "string",
+      "value": "G3a9nhLmatvXLFr5mgSy"
+    },
+    "team-b-id": {
+      "type": "string",
+      "value": "jgqve2lAcac8T3Ot8kcZ"
+    },
+    "date": {
+      "type": "date",
+      "value": "2023-12-20T19:30:00.000Z"
+    },
+    "phase": {
+      "type": "number",
+      "value": 5
+    },
+    "players-in-match-data": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "object",
+          "value": {}
+        },
+        "team-a": {
+          "type": "object",
+          "value": {}
+        }
+      }
+    },
+    "location-id": {
+      "type": "string",
+      "value": "bhq0R8ThmxrN5jf5hhcV"
+    },
+    "playground": {
+      "type": "object",
+      "value": {
+        "name": {
+          "type": "string",
+          "value": "Cancha 1"
+        }
+      }
+    },
+    "id": {
+      "type": "string",
+      "value": "8BmoCXgKPTQUrFpVt4sg"
+    },
+    "score": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "number",
+          "value": 0
+        },
+        "team-a": {
+          "type": "number",
+          "value": 3
+        }
+      }
+    },
+    "stadistics": {
+      "type": "object",
+      "value": {
+        "extra-goals-team-a": {
+          "type": "object",
+          "value": {
+            "description": {
+              "type": "string",
+              "value": "El partido de gana por w"
+            },
+            "goals": {
+              "type": "number",
+              "value": 3
+            }
+          }
+        },
+        "team-b": {
+          "type": "Array",
+          "value": []
+        },
+        "team-a": {
+          "type": "Array",
+          "value": []
+        },
+        "extra-goals-team-b": {
+          "type": "object",
+          "value": {
+            "goals": {
+              "type": "number",
+              "value": 0
+            }
+          }
+        }
+      }
+    },
+    "player-form": {
+      "type": "object",
+      "value": {
+        "team-b": {
+          "type": "Array",
+          "value": []
+        },
+        "team-a": {
+          "type": "Array",
+          "value": [
+            {
+              "type": "string",
+              "value": "2SypJ84JazDhydw5kbhG"
+            },
+            {
+              "type": "string",
+              "value": "4L08mArcnq2gfop2MQmS"
+            },
+            {
+              "type": "string",
+              "value": "5KdVTm6ZeSEtYbNjyW8d"
+            },
+            {
+              "type": "string",
+              "value": "BceT4DwauSIILVtwwBV3"
+            },
+            {
+              "type": "string",
+              "value": "BhqX6FmHqCypgfT722l3"
+            },
+            {
+              "type": "string",
+              "value": "FbiGPHT49gve0UlkdH1t"
+            },
+            {
+              "type": "string",
+              "value": "UlfLjAi7t6R16divrPVs"
+            },
+            {
+              "type": "string",
+              "value": "VKfYIAsDgNhsswjUGq1X"
+            },
+            {
+              "type": "string",
+              "value": "WKr0pu6DoKWyYgmGjU4T"
+            },
+            {
+              "type": "string",
+              "value": "ZWHAQPY2pfJSPjc2HE8L"
+            },
+            {
+              "type": "string",
+              "value": "bPLUpQ7lHzbTrEGidKQJ"
+            },
+            {
+              "type": "string",
+              "value": "bzQ1KYNXtDJE3mt0kxY5"
+            },
+            {
+              "type": "string",
+              "value": "mw4RXW8B4ivQnGKrBOIp"
+            },
+            {
+              "type": "string",
+              "value": "gBUPLqmmornLwYgZWrc9"
+            },
+            {
+              "type": "string",
+              "value": "tApL9HVayoWbXKfqg0Jq"
+            },
+            {
+              "type": "string",
+              "value": "u7APEvEIWiUfnI46bdKW"
+            }
+          ]
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "value": "completed"
+    }
+  }
+}

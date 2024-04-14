@@ -1,0 +1,529 @@
+{
+  "type": "object",
+  "value": {
+    "enrollment-date": {
+      "type": "date",
+      "value": "2023-12-07T15:47:49.142Z"
+    },
+    "tournament-id": {
+      "type": "string",
+      "value": "IVl2y1LVKxQNMimkuOdH"
+    },
+    "required-docs": {
+      "type": "object",
+      "value": {
+        "members": {
+          "type": "object",
+          "value": {}
+        },
+        "team": {
+          "type": "object",
+          "value": {}
+        }
+      }
+    },
+    "members": {
+      "type": "Array",
+      "value": [
+        {
+          "type": "object",
+          "value": {
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:30:55.175Z"
+            },
+            "init-date": {
+              "type": "string",
+              "value": "2023-11-24T21:30:55.175Z"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "3tcUJjc3JqPX3IlXt6b9"
+            },
+            "position": {
+              "type": "string",
+              "value": ""
+            },
+            "id": {
+              "type": "string",
+              "value": "1GPEZvS96cosMsDCyKXA"
+            },
+            "kind-member": {
+              "type": "Array",
+              "value": [
+                {
+                  "type": "string",
+                  "value": "owner"
+                },
+                {
+                  "type": "string",
+                  "value": "technical-director"
+                }
+              ]
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 41
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:42:46.886Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/1dsmGmLYMufqUd6FxK1t/profile.png"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "FelkvTXhpseWFbTFD6PH"
+            },
+            "position": {
+              "type": "string",
+              "value": "Delantero "
+            },
+            "id": {
+              "type": "string",
+              "value": "1dsmGmLYMufqUd6FxK1t"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 12
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:47:09.995Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/9cNE6xEExmiPkdTl27RF/profile.jpg"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "sjIY01uzD9PIjlmaWtBt"
+            },
+            "position": {
+              "type": "string",
+              "value": "defensa "
+            },
+            "id": {
+              "type": "string",
+              "value": "9cNE6xEExmiPkdTl27RF"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 14
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:45:20.686Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/H41zpoQBj3WtzSDaNDwM/profile.jpg"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "IjAtFWL5EDSGw0A7HRcA"
+            },
+            "position": {
+              "type": "string",
+              "value": "Defensa "
+            },
+            "id": {
+              "type": "string",
+              "value": "H41zpoQBj3WtzSDaNDwM"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 20
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:40:59.189Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/Krd52z0YNJ2HXCa9mbZe/profile.png"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "paaMG5MlMy4Vea0A2ds5"
+            },
+            "position": {
+              "type": "string",
+              "value": "Defensa "
+            },
+            "id": {
+              "type": "string",
+              "value": "Krd52z0YNJ2HXCa9mbZe"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 99
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:48:47.096Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/UVjhfkOotbebUdXVyrOR/profile.jpg"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "yPoJKlldzft5r8TrMMwf"
+            },
+            "position": {
+              "type": "string",
+              "value": "Delantero "
+            },
+            "id": {
+              "type": "string",
+              "value": "UVjhfkOotbebUdXVyrOR"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 15
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:50:24.092Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/WJtTbyQA0stUtCItwGgp/profile.png"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "2NagkfGJJwh0dnz3bL9W"
+            },
+            "position": {
+              "type": "string",
+              "value": "Delantero "
+            },
+            "id": {
+              "type": "string",
+              "value": "WJtTbyQA0stUtCItwGgp"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 9
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:34:08.023Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/YNqqEQoTpyNkftRPbfb9/profile.png"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "jIkaZrRs2HrIaAX72sre"
+            },
+            "position": {
+              "type": "string",
+              "value": "Volante "
+            },
+            "id": {
+              "type": "string",
+              "value": "YNqqEQoTpyNkftRPbfb9"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 2
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:44:06.487Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/cZxguLp44Gwo7A1MLwsm/profile.png"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "oIP5uhK7MuN25u21ovtn"
+            },
+            "position": {
+              "type": "string",
+              "value": "Portero "
+            },
+            "id": {
+              "type": "string",
+              "value": "cZxguLp44Gwo7A1MLwsm"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 10
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:37:45.089Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/hvd9TYx4fLsZVgvw413B/profile.png"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "TgsFlZX4a7Y3mqduSW6t"
+            },
+            "position": {
+              "type": "string",
+              "value": "Volante "
+            },
+            "id": {
+              "type": "string",
+              "value": "hvd9TYx4fLsZVgvw413B"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 8
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:39:13.887Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/s1So75CsS8ncMESOAaec/profile.png"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "HSlIODdUKutAkfPtkAYH"
+            },
+            "position": {
+              "type": "string",
+              "value": "Lateral"
+            },
+            "id": {
+              "type": "string",
+              "value": "s1So75CsS8ncMESOAaec"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 6
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:51:41.586Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/xsiLjLBaTjvxcCLTrJEC/profile.jpg"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "ZcmCN5cz0MYhjMNNtXhs"
+            },
+            "position": {
+              "type": "string",
+              "value": "Delantero "
+            },
+            "id": {
+              "type": "string",
+              "value": "xsiLjLBaTjvxcCLTrJEC"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "value": {
+            "number": {
+              "type": "number",
+              "value": 19
+            },
+            "enrollment-date": {
+              "type": "string",
+              "value": "2023-11-24T21:36:18.994Z"
+            },
+            "image": {
+              "type": "string",
+              "value": "teams/SvNXCaIpnSkGI6mrR2xq/members/zdHvL6hsnY7HuqTmbv8T/profile.png"
+            },
+            "user-id": {
+              "type": "string",
+              "value": "Ysc52VvPXOm0lkDySuLE"
+            },
+            "position": {
+              "type": "string",
+              "value": "Volante "
+            },
+            "id": {
+              "type": "string",
+              "value": "zdHvL6hsnY7HuqTmbv8T"
+            },
+            "kind-member": {
+              "type": "string",
+              "value": "player"
+            },
+            "team-id": {
+              "type": "string",
+              "value": "SvNXCaIpnSkGI6mrR2xq"
+            }
+          }
+        }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "value": "nkgkye6iAepZ2cZEmpqR"
+    },
+    "team-id": {
+      "type": "string",
+      "value": "SvNXCaIpnSkGI6mrR2xq"
+    },
+    "status": {
+      "type": "string",
+      "value": "pre-registered"
+    }
+  }
+}
